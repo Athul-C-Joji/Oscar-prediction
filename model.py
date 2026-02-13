@@ -1,6 +1,6 @@
 """
-Model Training Script
-Trains Best Picture prediction model using time-based split
+Model Training Script - IMPROVED VERSION
+Trains Best Picture prediction model with engineered features
 """
 
 import pandas as pd
@@ -10,10 +10,31 @@ import joblib
 import os
 
 
+def engineer_features(df):
+    """
+    Create additional features to improve predictions
+    """
+    print("\n🔧 Engineering features...")
+    
+    # Nomination ratio (how many noms compared to that year's average)
+    df['nom_ratio'] = df['total_nominations'] / df['year_total_nominations']
+    
+    # Is it the most nominated film that year?
+    df['is_top_nominated'] = (df.groupby('year_ceremony')['total_nominations']
+                               .transform('max') == df['total_nominations']).astype(int)
+    
+    # Nomination rank within year
+    df['nom_rank'] = df.groupby('year_ceremony')['total_nominations'].rank(ascending=False, method='min')
+    
+    print(f"✅ Created new features: nom_ratio, is_top_nominated, nom_rank")
+    
+    return df
+
+
 def train_model():
 
     print("=" * 50)
-    print("MODEL TRAINING")
+    print("MODEL TRAINING - IMPROVED")
     print("=" * 50)
 
     # --------------------------------------------------
@@ -21,21 +42,20 @@ def train_model():
     # --------------------------------------------------
     print("\n📂 Loading processed data...")
     df = pd.read_csv("data/processed/best_picture_clean.csv")
+    
+    # Engineer features
+    df = engineer_features(df)
 
     # --------------------------------------------------
-    # 2️⃣ Select Features (Basic Version)
+    # 2️⃣ Select Features
     # --------------------------------------------------
-    # For now we use year as simple feature
-    # Later we will add nominations, metadata, etc.
-
     features = [
-    'year_ceremony',
-    'nomination_number',
-    'total_nominations',
-    'nomination_share'
-]
-
-
+        'total_nominations',
+        'nomination_share',
+        'nom_ratio',
+        'is_top_nominated',
+        'nom_rank'
+    ]
 
     target = 'winner'
 
@@ -58,6 +78,8 @@ def train_model():
 
     print(f"✅ Training samples: {len(X_train)}")
     print(f"✅ Testing samples: {len(X_test)}")
+    print(f"   Winners in train: {y_train.sum()}")
+    print(f"   Winners in test: {y_test.sum()}")
 
     # --------------------------------------------------
     # 4️⃣ Train Model
@@ -65,8 +87,11 @@ def train_model():
     print("\n🤖 Training Random Forest model...")
 
     model = RandomForestClassifier(
-        n_estimators=100,
-        class_weight="balanced",
+        n_estimators=200,
+        max_depth=8,
+        min_samples_split=3,
+        min_samples_leaf=2,
+        class_weight={0: 1, 1: 10},  # Give more weight to winners
         random_state=42
     )
 
@@ -79,15 +104,34 @@ def train_model():
 
     y_prob = model.predict_proba(X_test)[:, 1]
 
-    # Lower threshold to improve recall
-    threshold = 0.30
+    # Lower threshold
+    threshold = 0.15
     y_pred = (y_prob >= threshold).astype(int)
 
+    print("\n📋 Classification Report:")
+    print(classification_report(y_test, y_pred, zero_division=0))
 
-    print("\nClassification Report:")
-    print(classification_report(y_test, y_pred))
+    try:
+        auc_score = roc_auc_score(y_test, y_prob)
+        print(f"\n🎯 ROC-AUC Score: {auc_score:.4f}")
+    except:
+        print("\n⚠️ Not enough data for ROC-AUC")
 
-    print("ROC-AUC Score:", roc_auc_score(y_test, y_prob))
+    # Show predictions with probabilities
+    print("\n🔍 Test Set Predictions:")
+    test_results = test[['year_ceremony', 'film', 'winner']].copy()
+    test_results['predicted_prob'] = y_prob
+    test_results['predicted'] = y_pred
+    test_results = test_results.sort_values('predicted_prob', ascending=False)
+    print(test_results.to_string(index=False))
+    
+    # Feature importance
+    print("\n🔍 Feature Importance:")
+    feature_importance = pd.DataFrame({
+        'feature': features,
+        'importance': model.feature_importances_
+    }).sort_values('importance', ascending=False)
+    print(feature_importance.to_string(index=False))
 
     # --------------------------------------------------
     # 6️⃣ Save Model
@@ -96,7 +140,8 @@ def train_model():
 
     joblib.dump(model, "models/best_picture_model.pkl")
 
-    print("\n✅ Model saved to models/best_picture_model.pkl")
+    print("\n💾 Model saved to models/best_picture_model.pkl")
+    print("\n✅ Training complete!")
 
 
 if __name__ == "__main__":
