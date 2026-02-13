@@ -1,0 +1,5 @@
+total_nominations
+nomination_share
+nom_ratio
+is_top_nominated
+nom_rank

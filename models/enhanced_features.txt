@@ -1,0 +1,12 @@
+total_nominations
+nomination_share
+nom_ratio
+is_top_nominated
+nom_rank
+won_gg_drama
+won_gg_musical
+won_bafta
+won_sag_cast
+total_precursor_wins
+has_precursor_win
+precursor_sweep

@@ -1,0 +1,8 @@
+year,film,avg_textblob_sentiment,avg_vader_sentiment,avg_positive_score,avg_negative_score,sentiment_category
+2024,American Fiction,0.34375,0.3062,0.222,0.0,Positive
+2024,Barbie,0.31597222222222227,0.5895666666666667,0.5406666666666666,0.0,Very Positive
+2024,Killers of the Flower Moon,0.27499999999999997,0.3176333333333333,0.3446666666666667,0.0,Positive
+2024,Oppenheimer,0.7333333333333333,0.479575,0.35325,0.0,Positive
+2024,Past Lives,0.12916666666666665,0.10025,0.387,0.3405,Neutral
+2024,Poor Things,0.5180555555555556,0.7126,0.5630000000000001,0.03266666666666667,Very Positive
+2024,The Holdovers,0.8,0.80715,0.7185,0.0,Very Positive

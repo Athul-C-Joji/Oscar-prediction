@@ -1,0 +1,212 @@
+year_film,year_ceremony,ceremony,category,canon_category,name,film,winner,total_nominations,year_total_nominations,nomination_share,nomination_number,year,won_gg_drama,won_gg_musical,won_bafta,won_sag_cast,imdb_rating,rt_critics,rt_audience,metacritic,combined_score,avg_textblob_sentiment,avg_vader_sentiment,avg_positive_score,avg_negative_score,sentiment_category,total_precursor_wins,has_precursor_win,precursor_sweep
+1994,1995,67,BEST PICTURE,BEST PICTURE,Wendy Finerman/Steve Tisch/Steve Starkey,Forrest Gump,1,13.0,33.0,0.3939393939393939,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1994,1995,67,BEST PICTURE,BEST PICTURE,Duncan Kenworthy,Four Weddings and a Funeral,0,2.0,33.0,0.0606060606060606,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1994,1995,67,BEST PICTURE,BEST PICTURE,Lawrence Bender,Pulp Fiction,0,7.0,33.0,0.2121212121212121,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1994,1995,67,BEST PICTURE,BEST PICTURE,Robert Redford/Michael Jacobs/Julian Krainin/Michael Nozik,Quiz Show,0,4.0,33.0,0.1212121212121212,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1994,1995,67,BEST PICTURE,BEST PICTURE,Niki Marvin,The Shawshank Redemption,0,7.0,33.0,0.2121212121212121,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1995,1996,68,BEST PICTURE,BEST PICTURE,Brian Grazer,Apollo 13,0,9.0,38.0,0.2368421052631578,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1995,1996,68,BEST PICTURE,BEST PICTURE,George Miller/Doug Mitchell/Bill Miller,Babe,0,7.0,38.0,0.1842105263157894,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1995,1996,68,BEST PICTURE,BEST PICTURE,Mel Gibson/Alan Ladd Jr./Bruce Davey,Braveheart,1,10.0,38.0,0.2631578947368421,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1995,1996,68,BEST PICTURE,BEST PICTURE,Mario Cecchi Gori/Vittorio Cecchi Gori/Gaetano Daniele,The Postman (Il Postino),0,5.0,38.0,0.131578947368421,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1995,1996,68,BEST PICTURE,BEST PICTURE,Lindsay Doran,Sense and Sensibility,0,7.0,38.0,0.1842105263157894,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1996,1997,69,BEST PICTURE,BEST PICTURE,Saul Zaentz,The English Patient,1,12.0,36.0,0.3333333333333333,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1996,1997,69,BEST PICTURE,BEST PICTURE,Ethan Coen,Fargo,0,7.0,36.0,0.1944444444444444,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1996,1997,69,BEST PICTURE,BEST PICTURE,James L. Brooks/Laurence Mark/Richard Sakai/Cameron Crowe,Jerry Maguire,0,5.0,36.0,0.1388888888888889,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1996,1997,69,BEST PICTURE,BEST PICTURE,Simon Channing-Williams,Secrets & Lies,0,5.0,36.0,0.1388888888888889,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1996,1997,69,BEST PICTURE,BEST PICTURE,Jane Scott,Shine,0,7.0,36.0,0.1944444444444444,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1997,1998,70,BEST PICTURE,BEST PICTURE,James L. Brooks/Bridget Johnson/Kristi Zea,As Good as It Gets,0,7.0,43.0,0.1627906976744186,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1997,1998,70,BEST PICTURE,BEST PICTURE,Uberto Pasolini,The Full Monty,0,4.0,43.0,0.0930232558139534,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1997,1998,70,BEST PICTURE,BEST PICTURE,Lawrence Bender,Good Will Hunting,0,9.0,43.0,0.2093023255813953,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1997,1998,70,BEST PICTURE,BEST PICTURE,Arnon Milchan/Curtis Hanson/Michael Nathanson,L.A. Confidential,0,9.0,43.0,0.2093023255813953,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1997,1998,70,BEST PICTURE,BEST PICTURE,James Cameron/Jon Landau,Titanic,1,14.0,43.0,0.3255813953488372,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1998,1999,71,BEST PICTURE,BEST PICTURE,Alison Owen/Eric Fellner/Tim Bevan,Elizabeth,0,7.0,45.0,0.1555555555555555,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1998,1999,71,BEST PICTURE,BEST PICTURE,Elda Ferri/Gianluigi Braschi,Life Is Beautiful,0,7.0,45.0,0.1555555555555555,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1998,1999,71,BEST PICTURE,BEST PICTURE,Steven Spielberg/Ian Bryce/Mark Gordon/Gary Levinsohn,Saving Private Ryan,0,11.0,45.0,0.2444444444444444,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1998,1999,71,BEST PICTURE,BEST PICTURE,David Parfitt/Donna Gigliotti/Harvey Weinstein/Edward Zwick/Marc Norman,Shakespeare in Love,1,13.0,45.0,0.2888888888888888,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1998,1999,71,BEST PICTURE,BEST PICTURE,Robert Michael Geisler/John Roberdeau/Grant Hill,The Thin Red Line,0,7.0,45.0,0.1555555555555555,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1999,2000,72,BEST PICTURE,BEST PICTURE,Bruce Cohen/Dan Jinks,American Beauty,1,8.0,32.0,0.25,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1999,2000,72,BEST PICTURE,BEST PICTURE,Richard N. Gladstein,The Cider House Rules,0,7.0,32.0,0.21875,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1999,2000,72,BEST PICTURE,BEST PICTURE,David Valdes/Frank Darabont,The Green Mile,0,4.0,32.0,0.125,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1999,2000,72,BEST PICTURE,BEST PICTURE,Michael Mann/Pieter Jan Brugge,The Insider,0,7.0,32.0,0.21875,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+1999,2000,72,BEST PICTURE,BEST PICTURE,Frank Marshall/Kathleen Kennedy/Barry Mendel,The Sixth Sense,0,6.0,32.0,0.1875,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2000,2001,73,BEST PICTURE,BEST PICTURE,David Brown/Kit Golden/Leslie Holleran,Chocolat,0,5.0,37.0,0.1351351351351351,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2000,2001,73,BEST PICTURE,BEST PICTURE,Bill Kong/Hsu Li Kong/Ang Lee,"Crouching Tiger, Hidden Dragon",0,10.0,37.0,0.2702702702702703,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2000,2001,73,BEST PICTURE,BEST PICTURE,Danny DeVito/Michael Shamberg/Stacey Sher,Erin Brockovich,0,5.0,37.0,0.1351351351351351,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2000,2001,73,BEST PICTURE,BEST PICTURE,Douglas Wick/David Franzoni/Branko Lustig,Gladiator,1,12.0,37.0,0.3243243243243243,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2000,2001,73,BEST PICTURE,BEST PICTURE,Edward Zwick/Marshall Herskovitz/Laura Bickford,Traffic,0,5.0,37.0,0.1351351351351351,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2001,2002,74,BEST PICTURE,BEST PICTURE,Brian Grazer/Ron Howard,A Beautiful Mind,1,8.0,41.0,0.1951219512195122,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2001,2002,74,BEST PICTURE,BEST PICTURE,Robert Altman/Bob Balaban/David Levy,Gosford Park,0,7.0,41.0,0.1707317073170731,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2001,2002,74,BEST PICTURE,BEST PICTURE,Graham Leader/Ross Katz/Todd Field,In the Bedroom,0,5.0,41.0,0.1219512195121951,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2001,2002,74,BEST PICTURE,BEST PICTURE,Peter Jackson/Fran Walsh/Barrie M. Osborne,The Lord of the Rings: The Fellowship of the Ring,0,13.0,41.0,0.3170731707317073,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2001,2002,74,BEST PICTURE,BEST PICTURE,Martin Brown/Baz Luhrmann/Fred Baron,Moulin Rouge,0,8.0,41.0,0.1951219512195122,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2002,2003,75,BEST PICTURE,BEST PICTURE,Martin Richards,Chicago,1,13.0,45.0,0.2888888888888888,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2002,2003,75,BEST PICTURE,BEST PICTURE,Alberto Grimaldi/Harvey Weinstein,Gangs of New York,0,10.0,45.0,0.2222222222222222,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2002,2003,75,BEST PICTURE,BEST PICTURE,Scott Rudin/Robert Fox,The Hours,0,9.0,45.0,0.2,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2002,2003,75,BEST PICTURE,BEST PICTURE,Barrie M. Osborne/Fran Walsh/Peter Jackson,The Lord of the Rings: The Two Towers,0,6.0,45.0,0.1333333333333333,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2002,2003,75,BEST PICTURE,BEST PICTURE,Roman Polanski/Robert Benmussa/Alain Sarde,The Pianist,0,7.0,45.0,0.1555555555555555,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2003,2004,76,BEST PICTURE,BEST PICTURE,Barrie M. Osborne/Peter Jackson/Fran Walsh,The Lord of the Rings: The Return of the King,1,11.0,38.0,0.2894736842105263,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2003,2004,76,BEST PICTURE,BEST PICTURE,Ross Katz/Sofia Coppola,Lost in Translation,0,4.0,38.0,0.1052631578947368,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2003,2004,76,BEST PICTURE,BEST PICTURE,Samuel Goldwyn Jr./Peter Weir/Duncan Henderson,Master and Commander: The Far Side of the World,0,10.0,38.0,0.2631578947368421,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2003,2004,76,BEST PICTURE,BEST PICTURE,Robert Lorenz/Judie G. Hoyt/Clint Eastwood,Mystic River,0,6.0,38.0,0.1578947368421052,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2003,2004,76,BEST PICTURE,BEST PICTURE,Kathleen Kennedy/Frank Marshall/Gary Ross,Seabiscuit,0,7.0,38.0,0.1842105263157894,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2004,2005,77,BEST PICTURE,BEST PICTURE,Michael Mann/Graham King,The Aviator,0,11.0,36.0,0.3055555555555556,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2004,2005,77,BEST PICTURE,BEST PICTURE,Richard N. Gladstein/Nellie Bellflower,Finding Neverland,0,7.0,36.0,0.1944444444444444,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2004,2005,77,BEST PICTURE,BEST PICTURE,Clint Eastwood/Albert S. Ruddy/Tom Rosenberg,Million Dollar Baby,1,7.0,36.0,0.1944444444444444,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2004,2005,77,BEST PICTURE,BEST PICTURE,Taylor Hackford/Stuart Benjamin/Howard Baldwin,Ray,0,6.0,36.0,0.1666666666666666,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2004,2005,77,BEST PICTURE,BEST PICTURE,Michael London,Sideways,0,5.0,36.0,0.1388888888888889,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2005,2006,78,BEST PICTURE,BEST PICTURE,Diana Ossana/James Schamus,Brokeback Mountain,0,8.0,30.0,0.2666666666666666,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2005,2006,78,BEST PICTURE,BEST PICTURE,Caroline Baron/William Vince/Michael Ohoven,Capote,0,5.0,30.0,0.1666666666666666,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2005,2006,78,BEST PICTURE,BEST PICTURE,Paul Haggis/Cathy Schulman,Crash,1,6.0,30.0,0.2,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2005,2006,78,BEST PICTURE,BEST PICTURE,Grant Heslov,"Good Night, and Good Luck.",0,6.0,30.0,0.2,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2005,2006,78,BEST PICTURE,BEST PICTURE,Kathleen Kennedy/Steven Spielberg/Barry Mendel,Munich,0,5.0,30.0,0.1666666666666666,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2006,2007,79,BEST PICTURE,BEST PICTURE,Alejandro González Iñárritu/Jon Kilik/Steve Golin,Babel,0,7.0,26.0,0.2692307692307692,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2006,2007,79,BEST PICTURE,BEST PICTURE,Graham King,The Departed,1,5.0,26.0,0.1923076923076923,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2006,2007,79,BEST PICTURE,BEST PICTURE,Clint Eastwood/Steven Spielberg/Robert Lorenz,Letters from Iwo Jima,0,4.0,26.0,0.1538461538461538,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2006,2007,79,BEST PICTURE,BEST PICTURE,David T. Friendly/Peter Saraf/Marc Turtletaub,Little Miss Sunshine,0,4.0,26.0,0.1538461538461538,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2006,2007,79,BEST PICTURE,BEST PICTURE,Andy Harries/Christine Langan/Tracey Seaward,The Queen,0,6.0,26.0,0.2307692307692307,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2007,2008,80,BEST PICTURE,BEST PICTURE,Tim Bevan/Eric Fellner/Paul Webster,Atonement,0,7.0,34.0,0.2058823529411764,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2007,2008,80,BEST PICTURE,BEST PICTURE,Lianne Halfon/Mason Novick/Russell Smith,Juno,0,4.0,34.0,0.1176470588235294,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2007,2008,80,BEST PICTURE,BEST PICTURE,Sydney Pollack/Jennifer Fox/Kerry Orent,Michael Clayton,0,7.0,34.0,0.2058823529411764,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2007,2008,80,BEST PICTURE,BEST PICTURE,Scott Rudin/Ethan Coen/Joel Coen,No Country for Old Men,1,8.0,34.0,0.2352941176470588,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2007,2008,80,BEST PICTURE,BEST PICTURE,JoAnne Sellar/Paul Thomas Anderson/Daniel Lupi,There Will Be Blood,0,8.0,34.0,0.2352941176470588,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2008,2009,81,BEST PICTURE,BEST PICTURE,Kathleen Kennedy/Frank Marshall/Ceán Chaffin,The Curious Case of Benjamin Button,0,13.0,41.0,0.3170731707317073,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2008,2009,81,BEST PICTURE,BEST PICTURE,Brian Grazer/Ron Howard/Eric Fellner,Frost/Nixon,0,5.0,41.0,0.1219512195121951,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2008,2009,81,BEST PICTURE,BEST PICTURE,Dan Jinks/Bruce Cohen,Milk,0,8.0,41.0,0.1951219512195122,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2008,2009,81,BEST PICTURE,BEST PICTURE,Anthony Minghella/Sydney Pollack/Donna Gigliotti/Redmond Morris,The Reader,0,5.0,41.0,0.1219512195121951,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2008,2009,81,BEST PICTURE,BEST PICTURE,Christian Colson,Slumdog Millionaire,1,10.0,41.0,0.2439024390243902,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2009,2010,82,BEST PICTURE,BEST PICTURE,James Cameron/Jon Landau,Avatar,0,9.0,54.0,0.1666666666666666,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2009,2010,82,BEST PICTURE,BEST PICTURE,Gil Netter/Andrew A. Kosove/Broderick Johnson,The Blind Side,0,2.0,54.0,0.037037037037037,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2009,2010,82,BEST PICTURE,BEST PICTURE,Peter Jackson/Carolynne Cunningham,District 9,0,4.0,54.0,0.074074074074074,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2009,2010,82,BEST PICTURE,BEST PICTURE,Finola Dwyer/Amanda Posey,An Education,0,3.0,54.0,0.0555555555555555,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2009,2010,82,BEST PICTURE,BEST PICTURE,Kathryn Bigelow/Mark Boal/Nicolas Chartier/Greg Shapiro,The Hurt Locker,1,9.0,54.0,0.1666666666666666,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2009,2010,82,BEST PICTURE,BEST PICTURE,Lawrence Bender,Inglourious Basterds,0,8.0,54.0,0.1481481481481481,6,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2009,2010,82,BEST PICTURE,BEST PICTURE,Lee Daniels/Sarah Siegel-Magness/Gary Magness,Precious: Based on the Novel 'Push' by Sapphire,0,6.0,54.0,0.1111111111111111,7,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2009,2010,82,BEST PICTURE,BEST PICTURE,Joel Coen/Ethan Coen,A Serious Man,0,2.0,54.0,0.037037037037037,8,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2009,2010,82,BEST PICTURE,BEST PICTURE,Jonas Rivera,Up,0,5.0,54.0,0.0925925925925925,9,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2009,2010,82,BEST PICTURE,BEST PICTURE,Daniel Dubiecki/Ivan Reitman/Jason Reitman,Up in the Air,0,6.0,54.0,0.1111111111111111,10,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2010,2011,83,BEST PICTURE,BEST PICTURE,Mike Medavoy/Brian Oliver/Scott Franklin,Black Swan,0,5.0,69.0,0.072463768115942,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2010,2011,83,BEST PICTURE,BEST PICTURE,David Hoberman/Todd Lieberman/Mark Wahlberg,The Fighter,0,7.0,69.0,0.1014492753623188,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2010,2011,83,BEST PICTURE,BEST PICTURE,Emma Thomas/Christopher Nolan,Inception,0,8.0,69.0,0.1159420289855072,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2010,2011,83,BEST PICTURE,BEST PICTURE,Gary Gilbert/Jeffrey Levy-Hinte/Celine Rattray,The Kids Are All Right,0,4.0,69.0,0.0579710144927536,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2010,2011,83,BEST PICTURE,BEST PICTURE,Iain Canning/Emile Sherman/Gareth Unwin,The King's Speech,1,12.0,69.0,0.1739130434782608,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2010,2011,83,BEST PICTURE,BEST PICTURE,Christian Colson/Danny Boyle/John Smithson,127 Hours,0,6.0,69.0,0.0869565217391304,6,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2010,2011,83,BEST PICTURE,BEST PICTURE,Scott Rudin/Dana Brunetti/Michael De Luca/Ceán Chaffin,The Social Network,0,8.0,69.0,0.1159420289855072,7,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2010,2011,83,BEST PICTURE,BEST PICTURE,Darla K. Anderson,Toy Story 3,0,5.0,69.0,0.072463768115942,8,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2010,2011,83,BEST PICTURE,BEST PICTURE,Scott Rudin/Ethan Coen/Joel Coen,True Grit,0,10.0,69.0,0.144927536231884,9,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2010,2011,83,BEST PICTURE,BEST PICTURE,Anne Rosellini/Alix Madigan-Yorkin,Winter's Bone,0,4.0,69.0,0.0579710144927536,10,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2011,2012,84,BEST PICTURE,BEST PICTURE,Thomas Langmann,The Artist,1,10.0,51.0,0.196078431372549,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2011,2012,84,BEST PICTURE,BEST PICTURE,Jim Burke/Alexander Payne/Jim Taylor,The Descendants,0,5.0,51.0,0.0980392156862745,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2011,2012,84,BEST PICTURE,BEST PICTURE,Scott Rudin,Extremely Loud & Incredibly Close,0,2.0,51.0,0.0392156862745098,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2011,2012,84,BEST PICTURE,BEST PICTURE,Brunson Green/Chris Columbus/Michael Barnathan,The Help,0,4.0,51.0,0.0784313725490196,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2011,2012,84,BEST PICTURE,BEST PICTURE,Graham King/Martin Scorsese,Hugo,0,11.0,51.0,0.2156862745098039,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2011,2012,84,BEST PICTURE,BEST PICTURE,Letty Aronson/Stephen Tenenbaum,Midnight in Paris,0,4.0,51.0,0.0784313725490196,6,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2011,2012,84,BEST PICTURE,BEST PICTURE,Michael De Luca/Rachael Horovitz/Brad Pitt,Moneyball,0,6.0,51.0,0.1176470588235294,7,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2011,2012,84,BEST PICTURE,BEST PICTURE,Sarah Green/Bill Pohlad/Dede Gardner/Grant Hill,The Tree of Life,0,3.0,51.0,0.0588235294117647,8,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2011,2012,84,BEST PICTURE,BEST PICTURE,Steven Spielberg/Kathleen Kennedy,War Horse,0,6.0,51.0,0.1176470588235294,9,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2012,2013,85,BEST PICTURE,BEST PICTURE,Margaret Menegoz/Stefan Arndt/Veit Heiduschka/Michael Katz,Amour,0,5.0,65.0,0.0769230769230769,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2012,2013,85,BEST PICTURE,BEST PICTURE,Grant Heslov/Ben Affleck/George Clooney,Argo,1,7.0,65.0,0.1076923076923077,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2012,2013,85,BEST PICTURE,BEST PICTURE,Dan Janvey/Josh Penn/Michael Gottwald,Beasts of the Southern Wild,0,4.0,65.0,0.0615384615384615,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2012,2013,85,BEST PICTURE,BEST PICTURE,Stacey Sher/Reginald Hudlin/Pilar Savone,Django Unchained,0,5.0,65.0,0.0769230769230769,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2012,2013,85,BEST PICTURE,BEST PICTURE,Tim Bevan/Eric Fellner/Debra Hayward/Cameron Mackintosh,Les Misérables,0,8.0,65.0,0.123076923076923,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2012,2013,85,BEST PICTURE,BEST PICTURE,Gil Netter/Ang Lee/David Womark,Life of Pi,0,11.0,65.0,0.1692307692307692,6,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2012,2013,85,BEST PICTURE,BEST PICTURE,Steven Spielberg/Kathleen Kennedy,Lincoln,0,12.0,65.0,0.1846153846153846,7,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2012,2013,85,BEST PICTURE,BEST PICTURE,Donna Gigliotti/Bruce Cohen/Jonathan Gordon,Silver Linings Playbook,0,8.0,65.0,0.123076923076923,8,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2012,2013,85,BEST PICTURE,BEST PICTURE,Mark Boal/Kathryn Bigelow/Megan Ellison,Zero Dark Thirty,0,5.0,65.0,0.0769230769230769,9,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2013,2014,86,BEST PICTURE,BEST PICTURE,Charles Roven/Richard Suckle/Megan Ellison/Jonathan Gordon,American Hustle,0,10.0,61.0,0.1639344262295081,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2013,2014,86,BEST PICTURE,BEST PICTURE,Scott Rudin/Dana Brunetti/Michael De Luca,Captain Phillips,0,6.0,61.0,0.0983606557377049,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2013,2014,86,BEST PICTURE,BEST PICTURE,Robbie Brenner/Rachel Winter,Dallas Buyers Club,0,6.0,61.0,0.0983606557377049,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2013,2014,86,BEST PICTURE,BEST PICTURE,Alfonso Cuarón/David Heyman,Gravity,0,10.0,61.0,0.1639344262295081,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2013,2014,86,BEST PICTURE,BEST PICTURE,Megan Ellison/Spike Jonze/Vincent Landay,Her,0,5.0,61.0,0.081967213114754,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2013,2014,86,BEST PICTURE,BEST PICTURE,Albert Berger/Ron Yerxa,Nebraska,0,6.0,61.0,0.0983606557377049,6,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2013,2014,86,BEST PICTURE,BEST PICTURE,Gabrielle Tana/Steve Coogan/Tracey Seaward,Philomena,0,4.0,61.0,0.0655737704918032,7,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2013,2014,86,BEST PICTURE,BEST PICTURE,Brad Pitt/Dede Gardner/Jeremy Kleiner/Steve McQueen/Anthony Katagas,12 Years a Slave,1,9.0,61.0,0.1475409836065573,8,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2013,2014,86,BEST PICTURE,BEST PICTURE,Martin Scorsese/Leonardo DiCaprio/Joey McFarland/Emma Tillinger Koskoff,The Wolf of Wall Street,0,5.0,61.0,0.081967213114754,9,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2014,2015,87,BEST PICTURE,BEST PICTURE,Clint Eastwood/Robert Lorenz/Andrew Lazar/Bradley Cooper/Peter Morgan,American Sniper,0,6.0,50.0,0.12,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2014,2015,87,BEST PICTURE,BEST PICTURE,Alejandro G. Iñárritu/John Lesher/James W. Skotchdopole,Birdman or (The Unexpected Virtue of Ignorance),1,9.0,50.0,0.18,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2014,2015,87,BEST PICTURE,BEST PICTURE,Richard Linklater/Cathleen Sutherland,Boyhood,0,6.0,50.0,0.12,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2014,2015,87,BEST PICTURE,BEST PICTURE,Wes Anderson/Scott Rudin/Steven Rales/Jeremy Dawson,The Grand Budapest Hotel,0,9.0,50.0,0.18,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2014,2015,87,BEST PICTURE,BEST PICTURE,Nora Grossman/Ido Ostrowsky/Teddy Schwarzman,The Imitation Game,0,8.0,50.0,0.16,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2014,2015,87,BEST PICTURE,BEST PICTURE,Christian Colson/Oprah Winfrey/Dede Gardner/Jeremy Kleiner,Selma,0,2.0,50.0,0.04,6,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2014,2015,87,BEST PICTURE,BEST PICTURE,Tim Bevan/Eric Fellner/Lisa Bruce/Anthony McCarten,The Theory of Everything,0,5.0,50.0,0.1,7,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2014,2015,87,BEST PICTURE,BEST PICTURE,Jason Blum/Helen Estabrook/David Lancaster,Whiplash,0,5.0,50.0,0.1,8,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2015,2016,88,BEST PICTURE,BEST PICTURE,Brad Pitt/Dede Gardner/Jeremy Kleiner,The Big Short,0,5.0,53.0,0.0943396226415094,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2015,2016,88,BEST PICTURE,BEST PICTURE,Steven Spielberg/Marc Platt/Kristie Macosko Krieger,Bridge of Spies,0,6.0,53.0,0.1132075471698113,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2015,2016,88,BEST PICTURE,BEST PICTURE,Finola Dwyer/Amanda Posey,Brooklyn,0,3.0,53.0,0.0566037735849056,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2015,2016,88,BEST PICTURE,BEST PICTURE,Doug Mitchell/George Miller,Mad Max: Fury Road,0,10.0,53.0,0.1886792452830188,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2015,2016,88,BEST PICTURE,BEST PICTURE,Simon Kinberg/Ridley Scott/Michael Schaefer/Mark Huffam,The Martian,0,7.0,53.0,0.1320754716981132,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2015,2016,88,BEST PICTURE,BEST PICTURE,Arnon Milchan/Steve Golin/Alejandro G. Iñárritu/Mary Parent/Keith Redmon,The Revenant,0,12.0,53.0,0.2264150943396226,6,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2015,2016,88,BEST PICTURE,BEST PICTURE,Ed Guiney,Room,0,4.0,53.0,0.0754716981132075,7,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2015,2016,88,BEST PICTURE,BEST PICTURE,Michael Sugar/Steve Golin/Nicole Rocklin/Blye Pagon Faust,Spotlight,1,6.0,53.0,0.1132075471698113,8,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2016,2017,89,BEST PICTURE,BEST PICTURE,Shawn Levy/Dan Levine/Aaron Ryder/David Linde,Arrival,0,8.0,59.0,0.135593220338983,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2016,2017,89,BEST PICTURE,BEST PICTURE,Scott Rudin/Denzel Washington/Todd Black,Fences,0,4.0,59.0,0.0677966101694915,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2016,2017,89,BEST PICTURE,BEST PICTURE,Bill Mechanic/David Permut,Hacksaw Ridge,0,6.0,59.0,0.1016949152542373,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2016,2017,89,BEST PICTURE,BEST PICTURE,Carla Hacken/Julie Yorn,Hell or High Water,0,4.0,59.0,0.0677966101694915,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2016,2017,89,BEST PICTURE,BEST PICTURE,Donna Gigliotti/Peter Chernin/Jenno Topping/Pharrell Williams/Theodore Melfi,Hidden Figures,0,3.0,59.0,0.0508474576271186,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2016,2017,89,BEST PICTURE,BEST PICTURE,Fred Berger/Jordan Horowitz/Marc Platt,La La Land,0,14.0,59.0,0.2372881355932203,6,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2016,2017,89,BEST PICTURE,BEST PICTURE,Emile Sherman/Iain Canning/Angie Fielder,Lion,0,6.0,59.0,0.1016949152542373,7,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2016,2017,89,BEST PICTURE,BEST PICTURE,Matt Damon/Kimberly Steward/Chris Moore/Lauren Beck/Kevin J. Walsh,Manchester by the Sea,0,6.0,59.0,0.1016949152542373,8,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2016,2017,89,BEST PICTURE,BEST PICTURE,Adele Romanski/Dede Gardner/Jeremy Kleiner,Moonlight,1,8.0,59.0,0.135593220338983,9,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2017,2018,90,BEST PICTURE,BEST PICTURE,Peter Spears/Luca Guadagnino/Emilie Georges/Marco Morabito,Call Me by Your Name,0,4.0,55.0,0.0727272727272727,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2017,2018,90,BEST PICTURE,BEST PICTURE,Tim Bevan/Eric Fellner/Lisa Bruce/Anthony McCarten/Douglas Urbanski,Darkest Hour,0,6.0,55.0,0.109090909090909,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2017,2018,90,BEST PICTURE,BEST PICTURE,Emma Thomas/Christopher Nolan,Dunkirk,0,8.0,55.0,0.1454545454545454,3,2018.0,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2017,2018,90,BEST PICTURE,BEST PICTURE,Sean McKittrick/Jason Blum/Edward H. Hamm Jr./Jordan Peele,Get Out,0,4.0,55.0,0.0727272727272727,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2017,2018,90,BEST PICTURE,BEST PICTURE,Scott Rudin/Eli Bush/Evelyn O'Neill,Lady Bird,0,5.0,55.0,0.0909090909090909,5,2018.0,0.0,1.0,0.0,0.0,,,,,,,,,,,1.0,1,0
+2017,2018,90,BEST PICTURE,BEST PICTURE,JoAnne Sellar/Paul Thomas Anderson/Megan Ellison/Daniel Lupi,Phantom Thread,0,6.0,55.0,0.109090909090909,6,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2017,2018,90,BEST PICTURE,BEST PICTURE,Amy Pascal/Steven Spielberg/Kristie Macosko Krieger,The Post,0,2.0,55.0,0.0363636363636363,7,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2017,2018,90,BEST PICTURE,BEST PICTURE,Guillermo del Toro/J. Miles Dale,The Shape of Water,1,13.0,55.0,0.2363636363636363,8,2018.0,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2017,2018,90,BEST PICTURE,BEST PICTURE,Graham Broadbent/Pete Czernin/Martin McDonagh,"Three Billboards outside Ebbing, Missouri",0,7.0,55.0,0.1272727272727272,9,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2018,2019,91,BEST PICTURE,BEST PICTURE,Kevin Feige,Black Panther,0,7.0,59.0,0.1186440677966101,1,,0.0,0.0,0.0,1.0,,,,,,,,,,,1.0,1,0
+2018,2019,91,BEST PICTURE,BEST PICTURE,Sean McKittrick/Jason Blum/Raymond Mansfield/Jordan Peele/Spike Lee,BlacKkKlansman,0,6.0,59.0,0.1016949152542373,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2018,2019,91,BEST PICTURE,BEST PICTURE,Graham King,Bohemian Rhapsody,0,5.0,59.0,0.0847457627118644,3,2019.0,1.0,0.0,0.0,0.0,,,,,,,,,,,1.0,1,0
+2018,2019,91,BEST PICTURE,BEST PICTURE,Ceci Dempsey/Ed Guiney/Lee Magiday/Yorgos Lanthimos,The Favourite,0,10.0,59.0,0.1694915254237288,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2018,2019,91,BEST PICTURE,BEST PICTURE,Jim Burke/Charles B. Wessler/Brian Currie/Peter Farrelly/Nick Vallelonga,Green Book,1,5.0,59.0,0.0847457627118644,5,2019.0,0.0,1.0,0.0,0.0,,,,,,,,,,,1.0,1,0
+2018,2019,91,BEST PICTURE,BEST PICTURE,Gabriela Rodríguez/Alfonso Cuarón,Roma,0,10.0,59.0,0.1694915254237288,6,2019.0,0.0,0.0,1.0,0.0,,,,,,,,,,,1.0,1,0
+2018,2019,91,BEST PICTURE,BEST PICTURE,Bill Gerber/Bradley Cooper/Lynette Howell Taylor,A Star Is Born,0,8.0,59.0,0.135593220338983,7,2019.0,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2018,2019,91,BEST PICTURE,BEST PICTURE,Dede Gardner/Jeremy Kleiner/Adam McKay/Kevin Messick,Vice,0,8.0,59.0,0.135593220338983,8,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2019,2020,92,BEST PICTURE,BEST PICTURE,Peter Chernin/Jenno Topping/James Mangold,Ford v Ferrari,0,4.0,69.0,0.0579710144927536,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2019,2020,92,BEST PICTURE,BEST PICTURE,Martin Scorsese/Robert De Niro/Jane Rosenthal/Emma Tillinger Koskoff,The Irishman,0,10.0,69.0,0.144927536231884,2,2020.0,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2019,2020,92,BEST PICTURE,BEST PICTURE,Carthew Neal/Taika Waititi/Chelsea Winstanley,Jojo Rabbit,0,6.0,69.0,0.0869565217391304,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2019,2020,92,BEST PICTURE,BEST PICTURE,Todd Phillips/Bradley Cooper/Emma Tillinger Koskoff,Joker,0,11.0,69.0,0.1594202898550724,4,2020.0,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2019,2020,92,BEST PICTURE,BEST PICTURE,Amy Pascal,Little Women,0,6.0,69.0,0.0869565217391304,5,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2019,2020,92,BEST PICTURE,BEST PICTURE,Noah Baumbach/David Heyman,Marriage Story,0,6.0,69.0,0.0869565217391304,6,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2019,2020,92,BEST PICTURE,BEST PICTURE,Sam Mendes/Pippa Harris/Jayne-Ann Tenggren/Callum McDougall,1917,0,10.0,69.0,0.144927536231884,7,2020.0,1.0,0.0,1.0,0.0,,,,,,,,,,,2.0,1,0
+2019,2020,92,BEST PICTURE,BEST PICTURE,David Heyman/Shannon McIntosh/Quentin Tarantino,Once upon a Time...in Hollywood,0,10.0,69.0,0.144927536231884,8,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2019,2020,92,BEST PICTURE,BEST PICTURE,Kwak Sin Ae/Bong Joon Ho,Parasite,1,6.0,69.0,0.0869565217391304,9,2020.0,0.0,0.0,0.0,1.0,,,,,,,,,,,1.0,1,0
+2020,2021,93,BEST PICTURE,BEST PICTURE,David Parfitt/Jean-Louis Livi/Philippe Carcassonne,The Father,0,6.0,51.0,0.1176470588235294,1,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2020,2021,93,BEST PICTURE,BEST PICTURE,Shaka King/Charles D. King/Ryan Coogler,Judas and the Black Messiah,0,6.0,51.0,0.1176470588235294,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2020,2021,93,BEST PICTURE,BEST PICTURE,Ceán Chaffin/Eric Roth/Douglas Urbanski,Mank,0,10.0,51.0,0.196078431372549,3,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2020,2021,93,BEST PICTURE,BEST PICTURE,Christina Oh,Minari,0,6.0,51.0,0.1176470588235294,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2020,2021,93,BEST PICTURE,BEST PICTURE,Frances McDormand/Peter Spears/Mollye Asher/Dan Janvey/Chloé Zhao,Nomadland,1,6.0,51.0,0.1176470588235294,5,2021.0,1.0,0.0,1.0,0.0,,,,,,,,,,,2.0,1,0
+2020,2021,93,BEST PICTURE,BEST PICTURE,Ben Browning/Ashley Fox/Emerald Fennell/Josey McNamara,Promising Young Woman,0,5.0,51.0,0.0980392156862745,6,2021.0,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2020,2021,93,BEST PICTURE,BEST PICTURE,Bert Hamelinck/Sacha Ben Harroche,Sound of Metal,0,6.0,51.0,0.1176470588235294,7,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2020,2021,93,BEST PICTURE,BEST PICTURE,Marc Platt/Stuart Besser,The Trial of the Chicago 7,0,6.0,51.0,0.1176470588235294,8,2021.0,0.0,0.0,0.0,1.0,,,,,,,,,,,1.0,1,0
+2021,2022,94,BEST PICTURE,BEST PICTURE,Laura Berwick/Kenneth Branagh/Becca Kovacik/Tamar Thomas,Belfast,0,7.0,60.0,0.1166666666666666,1,2022.0,0.0,0.0,0.0,0.0,7.2,85.0,83.0,75.0,79.69999999999999,,,,,,0.0,0,0
+2021,2022,94,BEST PICTURE,BEST PICTURE,Philippe Rousselet/Fabrice Gianfermi/Patrick Wachsberger,CODA,1,3.0,60.0,0.05,2,2022.0,0.0,0.0,0.0,1.0,8.0,94.0,91.0,72.0,87.0,,,,,,1.0,1,0
+2021,2022,94,BEST PICTURE,BEST PICTURE,Adam McKay/Kevin Messick,Don't Look Up,0,4.0,60.0,0.0666666666666666,3,,0.0,0.0,0.0,0.0,7.2,55.0,77.0,55.0,64.5,,,,,,0.0,0,0
+2021,2022,94,BEST PICTURE,BEST PICTURE,Teruhisa Yamamoto,Drive My Car,0,4.0,60.0,0.0666666666666666,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2021,2022,94,BEST PICTURE,BEST PICTURE,Mary Parent/Denis Villeneuve/Cale Boyter,Dune,0,10.0,60.0,0.1666666666666666,5,2022.0,0.0,0.0,0.0,0.0,8.0,83.0,90.0,74.0,82.60000000000001,,,,,,0.0,0,0
+2021,2022,94,BEST PICTURE,BEST PICTURE,Tim White/Trevor White/Will Smith,King Richard,0,6.0,60.0,0.1,6,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2021,2022,94,BEST PICTURE,BEST PICTURE,Sara Murphy/Adam Somner/Paul Thomas Anderson,Licorice Pizza,0,3.0,60.0,0.05,7,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2021,2022,94,BEST PICTURE,BEST PICTURE,Guillermo del Toro/J. Miles Dale/Bradley Cooper,Nightmare Alley,0,4.0,60.0,0.0666666666666666,8,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2021,2022,94,BEST PICTURE,BEST PICTURE,Jane Campion/Tanya Seghatchian/Emile Sherman/Iain Canning/Roger Frappier,The Power of the Dog,0,12.0,60.0,0.2,9,2022.0,1.0,0.0,1.0,0.0,6.8,94.0,55.0,88.0,77.8,,,,,,2.0,1,0
+2021,2022,94,BEST PICTURE,BEST PICTURE,Steven Spielberg/Kristie Macosko Krieger,West Side Story,0,7.0,60.0,0.1166666666666666,10,2022.0,0.0,1.0,0.0,0.0,,,,,,,,,,,1.0,1,0
+2022,2023,95,BEST PICTURE,BEST PICTURE,Malte Grunert,All Quiet on the Western Front,0,9.0,65.0,0.1384615384615384,1,,0.0,0.0,1.0,0.0,7.7,90.0,90.0,76.0,84.69999999999999,,,,,,1.0,1,0
+2022,2023,95,BEST PICTURE,BEST PICTURE,James Cameron/Jon Landau,Avatar: The Way of Water,0,4.0,65.0,0.0615384615384615,2,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2022,2023,95,BEST PICTURE,BEST PICTURE,Graham Broadbent/Pete Czernin/Martin McDonagh,The Banshees of Inisherin,0,9.0,65.0,0.1384615384615384,3,2023.0,0.0,1.0,0.0,0.0,7.7,96.0,82.0,87.0,86.60000000000001,,,,,,1.0,1,0
+2022,2023,95,BEST PICTURE,BEST PICTURE,Baz Luhrmann/Catherine Martin/Gail Berman/Patrick McCormick/Schuyler Weiss,Elvis,0,8.0,65.0,0.123076923076923,4,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2022,2023,95,BEST PICTURE,BEST PICTURE,Daniel Kwan/Daniel Scheinert/Jonathan Wang,Everything Everywhere All at Once,1,11.0,65.0,0.1692307692307692,5,2023.0,0.0,0.0,0.0,1.0,7.8,95.0,90.0,81.0,87.5,,,,,,1.0,1,0
+2022,2023,95,BEST PICTURE,BEST PICTURE,Kristie Macosko Krieger/Steven Spielberg/Tony Kushner,The Fabelmans,0,7.0,65.0,0.1076923076923077,6,2023.0,1.0,0.0,0.0,0.0,7.5,92.0,75.0,85.0,82.80000000000001,,,,,,1.0,1,0
+2022,2023,95,BEST PICTURE,BEST PICTURE,Todd Field/Alexandra Milchan/Scott Lambert,Tár,0,6.0,65.0,0.0923076923076923,7,2023.0,0.0,0.0,0.0,0.0,7.4,91.0,71.0,92.0,82.0,,,,,,0.0,0,0
+2022,2023,95,BEST PICTURE,BEST PICTURE,Tom Cruise/Christopher McQuarrie/David Ellison/Jerry Bruckheimer,Top Gun: Maverick,0,6.0,65.0,0.0923076923076923,8,2023.0,0.0,0.0,0.0,0.0,8.2,96.0,99.0,78.0,90.6,,,,,,0.0,0,0
+2022,2023,95,BEST PICTURE,BEST PICTURE,Erik Hemmendorff/Philippe Bober,Triangle of Sadness,0,3.0,65.0,0.0461538461538461,9,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2022,2023,95,BEST PICTURE,BEST PICTURE,Dede Gardner/Jeremy Kleiner/Frances McDormand,Women Talking,0,2.0,65.0,0.0307692307692307,10,,0.0,0.0,0.0,0.0,,,,,,,,,,,0.0,0,0
+2023,2024,96,BEST PICTURE,BEST PICTURE,Ben LeClair/Nikos Karamigios/Cord Jefferson/Jermaine Johnson,American Fiction,0,5.0,71.0,0.0704225352112676,1,,0.0,0.0,0.0,0.0,7.5,93.0,94.0,81.0,86.6,0.34375,0.3062,0.222,0.0,Positive,0.0,0,0
+2023,2024,96,BEST PICTURE,BEST PICTURE,Marie-Ange Luciani/David Thion,Anatomy of a Fall,0,5.0,71.0,0.0704225352112676,2,,0.0,0.0,0.0,0.0,7.7,96.0,90.0,87.0,88.2,,,,,,0.0,0,0
+2023,2024,96,BEST PICTURE,BEST PICTURE,David Heyman/Margot Robbie/Tom Ackerley/Robbie Brenner,Barbie,0,8.0,71.0,0.1126760563380281,3,2024.0,0.0,0.0,0.0,0.0,6.8,88.0,83.0,80.0,80.2,0.3159722222222222,0.5895666666666667,0.5406666666666666,0.0,Very Positive,0.0,0,0
+2023,2024,96,BEST PICTURE,BEST PICTURE,Mark Johnson,The Holdovers,0,5.0,71.0,0.0704225352112676,4,,0.0,0.0,0.0,0.0,7.9,97.0,94.0,83.0,89.6,0.8,0.80715,0.7185,0.0,Very Positive,0.0,0,0
+2023,2024,96,BEST PICTURE,BEST PICTURE,Dan Friedkin/Bradley Thomas/Martin Scorsese/Daniel Lupi,Killers of the Flower Moon,0,10.0,71.0,0.1408450704225352,5,2024.0,0.0,0.0,0.0,0.0,7.6,93.0,84.0,89.0,85.7,0.2749999999999999,0.3176333333333333,0.3446666666666667,0.0,Positive,0.0,0,0
+2023,2024,96,BEST PICTURE,BEST PICTURE,Bradley Cooper/Steven Spielberg/Fred Berner/Amy Durning/Kristie Macosko Krieger,Maestro,0,7.0,71.0,0.0985915492957746,6,,0.0,0.0,0.0,0.0,6.5,81.0,68.0,78.0,73.3,,,,,,0.0,0,0
+2023,2024,96,BEST PICTURE,BEST PICTURE,Emma Thomas/Charles Roven/Christopher Nolan,Oppenheimer,1,13.0,71.0,0.1830985915492957,7,2024.0,1.0,0.0,1.0,1.0,8.3,93.0,90.0,90.0,89.1,0.7333333333333333,0.479575,0.35325,0.0,Positive,3.0,1,1
+2023,2024,96,BEST PICTURE,BEST PICTURE,David Hinojosa/Christine Vachon/Pamela Koffler,Past Lives,0,2.0,71.0,0.028169014084507,8,2024.0,0.0,0.0,0.0,0.0,7.8,95.0,94.0,94.0,89.60000000000001,0.1291666666666666,0.10025,0.387,0.3405,Neutral,0.0,0,0
+2023,2024,96,BEST PICTURE,BEST PICTURE,Ed Guiney/Andrew Lowe/Yorgos Lanthimos/Emma Stone,Poor Things,0,11.0,71.0,0.1549295774647887,9,2024.0,0.0,1.0,0.0,0.0,7.8,92.0,73.0,88.0,83.60000000000001,0.5180555555555556,0.7126,0.5630000000000001,0.0326666666666666,Very Positive,1.0,1,0
+2023,2024,96,BEST PICTURE,BEST PICTURE,James Wilson,The Zone of Interest,0,5.0,71.0,0.0704225352112676,10,,0.0,0.0,0.0,0.0,7.4,93.0,78.0,89.0,83.9,,,,,,0.0,0,0
