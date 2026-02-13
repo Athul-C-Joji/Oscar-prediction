@@ -36,6 +36,28 @@ def preprocess_oscar_data():
 
     print(f"✅ Records after year filtering: {len(df)}")
 
+        # --------------------------------------------------
+    # Create Total Nominations Per Film Feature
+    # --------------------------------------------------
+    print("\n🏆 Calculating total nominations per film...")
+
+    # Count nominations per film per year
+    nom_counts = (
+        df.groupby(['year_ceremony', 'film'])
+        .size()
+        .reset_index(name='total_nominations')
+    )
+
+    # Merge nomination counts back to full dataset
+    df = df.merge(
+        nom_counts,
+        on=['year_ceremony', 'film'],
+        how='left'
+    )
+
+    print("✅ Total nominations feature added")
+
+
     # --------------------------------------------------
     # 3️⃣ Filter Best Picture Category
     # --------------------------------------------------
@@ -46,15 +68,60 @@ def preprocess_oscar_data():
 
     print(f"✅ Found {len(df_bp)} Best Picture nominations")
 
+
     # --------------------------------------------------
-    # 4️⃣ Convert Winner Column to Numeric
+    # Create Nomination Share Feature
+    # --------------------------------------------------
+    print("\n📊 Calculating nomination share per year...")
+
+    # Total nominations among Best Picture nominees per year
+    year_totals = (
+        df_bp.groupby('year_ceremony')['total_nominations']
+        .sum()
+        .reset_index(name='year_total_nominations')
+    )
+
+    # Merge back
+    df_bp = df_bp.merge(
+        year_totals,
+        on='year_ceremony',
+        how='left'
+    )
+
+    # Calculate share
+    df_bp['nomination_share'] = (
+        df_bp['total_nominations'] /
+        df_bp['year_total_nominations']
+    )
+
+    print("✅ Nomination share feature created")
+
+    # --------------------------------------------------
+    # Convert Winner Column to Numeric
     # --------------------------------------------------
     print("\n🎯 Converting winner column to numeric (1 = Winner, 0 = Non-Winner)...")
-
     df_bp['winner'] = df_bp['winner'].astype(int)
 
     print("\n📊 Winner value counts:")
     print(df_bp['winner'].value_counts())
+
+    # --------------------------------------------------
+    # Add Nomination Order Feature
+    # --------------------------------------------------
+    print("\n🔢 Creating nomination order feature...")
+
+    # Sort properly first
+    df_bp = df_bp.sort_values(by=['year_ceremony'])
+
+    # Create nomination number within each year
+    df_bp['nomination_number'] = (
+        df_bp.groupby('year_ceremony')
+            .cumcount() + 1
+    )
+
+    print("✅ Nomination order feature created")
+    print(df_bp[['year_ceremony', 'nomination_number']].head())
+
 
     # --------------------------------------------------
     # 5️⃣ Validate: One Winner Per Year

@@ -28,7 +28,15 @@ def train_model():
     # For now we use year as simple feature
     # Later we will add nominations, metadata, etc.
 
-    features = ['year_ceremony']
+    features = [
+    'year_ceremony',
+    'nomination_number',
+    'total_nominations',
+    'nomination_share'
+]
+
+
+
     target = 'winner'
 
     X = df[features]
@@ -69,8 +77,12 @@ def train_model():
     # --------------------------------------------------
     print("\n📊 Evaluating model...")
 
-    y_pred = model.predict(X_test)
     y_prob = model.predict_proba(X_test)[:, 1]
+
+    # Lower threshold to improve recall
+    threshold = 0.30
+    y_pred = (y_prob >= threshold).astype(int)
+
 
     print("\nClassification Report:")
     print(classification_report(y_test, y_pred))
