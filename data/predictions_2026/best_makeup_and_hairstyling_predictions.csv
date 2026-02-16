@@ -1,0 +1,6 @@
+nominee,film,noms,year_ceremony,total_nominations,nomination_share,year_total_nominations,nom_ratio,is_top_nominated,nom_rank,won_gg_drama,won_gg_musical,won_bafta,won_sag_cast,total_precursor_wins,has_precursor_win,precursor_sweep,win_probability
+"Ken Diaz, Mike Fontaine & Shunika Terry",Sinners,15,2026,15,0.5172413793103449,29,0.5172413793103449,1,1.0,0,0,0,0,0,0,0,0.8487740520656479
+"Mike Hill, Jordan Samuel & Cliona Furey",Frankenstein,10,2026,10,0.3448275862068966,29,0.3448275862068966,0,2.0,0,0,0,0,0,0,0,0.20429749112756912
+"Kyoko Toyokawa, Naomi Hibino & Tadashi Nishimatsu",Kokuho,1,2026,1,0.034482758620689655,29,0.034482758620689655,0,4.0,0,0,0,0,0,0,0,0.0
+"Kazu Hiro, Glen Griffin & Bjoern Rehbein",The Smashing Machine,2,2026,2,0.06896551724137931,29,0.06896551724137931,0,3.0,0,0,0,0,0,0,0,0.0
+Thomas Foldberg & Anne Cathrine Sauerberg,The Ugly Stepsister,1,2026,1,0.034482758620689655,29,0.034482758620689655,0,4.0,0,0,0,0,0,0,0,0.0
