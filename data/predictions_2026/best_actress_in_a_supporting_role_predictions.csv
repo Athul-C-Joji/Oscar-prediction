@@ -1,6 +1,6 @@
-nominee,film,noms,year_ceremony,total_nominations,nomination_share,year_total_nominations,nom_ratio,is_top_nominated,nom_rank,won_gg_drama,won_gg_musical,won_bafta,won_sag_cast,total_precursor_wins,has_precursor_win,precursor_sweep,win_probability
-Wunmi Mosaku,Sinners,15,2026,15,0.36585365853658536,41,0.36585365853658536,1,1.0,0,0,0,0,0,0,0,0.8487740520656479
-Elle Fanning,Sentimental Value,6,2026,6,0.14634146341463414,41,0.14634146341463414,0,3.0,0,0,0,0,0,0,0,0.1651425591375597
-Inga Ibsdotter Lilleaas,Sentimental Value,6,2026,6,0.14634146341463414,41,0.14634146341463414,0,3.0,0,0,0,0,0,0,0,0.1651425591375597
-Teyana Taylor,One Battle after Another,13,2026,13,0.3170731707317073,41,0.3170731707317073,0,2.0,0,0,0,0,0,0,0,0.057224330592452036
-Amy Madigan,Weapons,1,2026,1,0.024390243902439025,41,0.024390243902439025,0,5.0,0,0,0,0,0,0,0,0.0
+nominee,film,noms,year_ceremony,total_nominations,nomination_share,year_total_nominations,nom_ratio,is_top_nominated,nom_rank,won_gg_drama,won_gg_musical,won_bafta,won_sag_cast,total_precursor_wins,has_precursor_win,precursor_sweep,win_probability,won_gg
+Wunmi Mosaku,Sinners,15,2026,15,0.3658536585365853,41,0.3658536585365853,1,1.0,0,0,0,0,0,0,0,0.6710229742471778,0
+Elle Fanning,Sentimental Value,6,2026,6,0.1463414634146341,41,0.1463414634146341,0,3.0,0,0,0,0,0,0,0,0.13055824566925486,0
+Inga Ibsdotter Lilleaas,Sentimental Value,6,2026,6,0.1463414634146341,41,0.1463414634146341,0,3.0,0,0,0,0,0,0,0,0.13055824566925486,0
+Teyana Taylor,One Battle after Another,13,2026,13,0.3170731707317073,41,0.3170731707317073,0,2.0,0,0,0,0,0,0,0,0.0678605344143125,1
+Amy Madigan,Weapons,1,2026,1,0.024390243902439,41,0.024390243902439,0,5.0,0,0,0,0,0,0,0,0.0,0

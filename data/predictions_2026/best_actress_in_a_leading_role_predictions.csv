@@ -1,6 +1,6 @@
-nominee,film,noms,year_ceremony,total_nominations,nomination_share,year_total_nominations,nom_ratio,is_top_nominated,nom_rank,won_gg_drama,won_gg_musical,won_bafta,won_sag_cast,total_precursor_wins,has_precursor_win,precursor_sweep,win_probability
-Jessie Buckley,Hamnet,9,2026,9,0.42857142857142855,21,0.42857142857142855,1,1.0,0,0,0,0,0,0,0,0.6244973727452205
-Emma Stone,Bugonia,4,2026,4,0.19047619047619047,21,0.19047619047619047,0,3.0,0,0,0,0,0,0,0,0.39407582048099377
-Renate Reinsve,Sentimental Value,6,2026,6,0.2857142857142857,21,0.2857142857142857,0,2.0,0,0,0,0,0,0,0,0.1198978392378277
-Kate Hudson,Song Sung Blue,1,2026,1,0.047619047619047616,21,0.047619047619047616,0,4.0,0,0,0,0,0,0,0,0.0
-Rose Byrne,If I Had Legs I'd Kick You,1,2026,1,0.047619047619047616,21,0.047619047619047616,0,4.0,0,0,0,0,0,0,0,0.0
+nominee,film,noms,year_ceremony,total_nominations,nomination_share,year_total_nominations,nom_ratio,is_top_nominated,nom_rank,won_gg_drama,won_gg_musical,won_bafta,won_sag_cast,total_precursor_wins,has_precursor_win,precursor_sweep,win_probability,won_gg
+Jessie Buckley,Hamnet,9,2026,9,0.4285714285714285,21,0.4285714285714285,1,1.0,1,0,0,0,1,1,0,0.6689942827521396,1
+Emma Stone,Bugonia,4,2026,4,0.1904761904761904,21,0.1904761904761904,0,3.0,0,0,0,0,0,0,0,0.25378995040273217,0
+Renate Reinsve,Sentimental Value,6,2026,6,0.2857142857142857,21,0.2857142857142857,0,2.0,0,0,0,0,0,0,0,0.07721576684512829,0
+Kate Hudson,Song Sung Blue,1,2026,1,0.0476190476190476,21,0.0476190476190476,0,4.0,0,0,0,0,0,0,0,0.0,0
+Rose Byrne,If I Had Legs I'd Kick You,1,2026,1,0.0476190476190476,21,0.0476190476190476,0,4.0,0,0,0,0,0,0,0,0.0,0

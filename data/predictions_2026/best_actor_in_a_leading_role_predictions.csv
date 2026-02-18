@@ -1,6 +1,6 @@
-nominee,film,noms,year_ceremony,total_nominations,nomination_share,year_total_nominations,nom_ratio,is_top_nominated,nom_rank,won_gg_drama,won_gg_musical,won_bafta,won_sag_cast,total_precursor_wins,has_precursor_win,precursor_sweep,win_probability
-Michael B. Jordan,Sinners,15,2026,15,0.3488372093023256,43,0.3488372093023256,1,1.0,0,0,0,0,0,0,0,0.7954407187323146
-Leonardo DiCaprio,One Battle after Another,13,2026,13,0.3023255813953488,43,0.3023255813953488,0,2.0,0,0,0,0,0,0,0,0.15055766392578537
-Timothée Chalamet,Marty Supreme,11,2026,11,0.2558139534883721,43,0.2558139534883721,0,3.0,0,0,0,0,0,0,0,0.1027328431372549
-Ethan Hawke,Blue Moon,2,2026,2,0.046511627906976744,43,0.046511627906976744,0,4.0,0,0,0,0,0,0,0,0.0
-Wagner Moura,The Secret Agent,2,2026,2,0.046511627906976744,43,0.046511627906976744,0,4.0,0,0,0,0,0,0,0,0.0
+nominee,film,noms,year_ceremony,total_nominations,nomination_share,year_total_nominations,nom_ratio,is_top_nominated,nom_rank,won_gg_drama,won_gg_musical,won_bafta,won_sag_cast,total_precursor_wins,has_precursor_win,precursor_sweep,win_probability,won_gg
+Michael B. Jordan,Sinners,15,2026,15,0.3488372093023256,43,0.3488372093023256,1,1.0,0,0,0,0,0,0,0,0.5476912056250627,0
+Wagner Moura,The Secret Agent,2,2026,2,0.0465116279069767,43,0.0465116279069767,0,4.0,1,0,0,0,1,1,0,0.2249224314155277,1
+Timothée Chalamet,Marty Supreme,11,2026,11,0.2558139534883721,43,0.2558139534883721,0,3.0,0,1,0,0,1,1,0,0.12372168182136005,1
+Leonardo DiCaprio,One Battle after Another,13,2026,13,0.3023255813953488,43,0.3023255813953488,0,2.0,0,0,0,0,0,0,0,0.10366468113804955,0
+Ethan Hawke,Blue Moon,2,2026,2,0.0465116279069767,43,0.0465116279069767,0,4.0,0,0,0,0,0,0,0,0.0,0
