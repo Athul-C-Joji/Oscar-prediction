@@ -1,0 +1,22 @@
+film,category,avg_textblob,avg_vader,sentiment_label,num_reviews
+Sinners,general,0.2638888888888889,0.5958,Very Positive,3
+Sinners,cinematography,0.4444444444444444,0.37643333333333334,Positive,3
+Sinners,editing,0.01607142857142857,0.06356666666666667,Neutral,3
+Sinners,production_design,0.27777777777777773,0.09106666666666667,Neutral,3
+Sinners,vfx,0.18333333333333335,0.12726666666666667,Neutral,3
+Sinners,sound,0.29444444444444445,0.14049999999999999,Neutral,3
+Sinners,score,0.5,-0.09106666666666667,Neutral,3
+Hamnet,general,0.15,0.14049999999999999,Neutral,3
+Hamnet,cinematography,0.56875,0.4971,Positive,2
+Hamnet,production_design,0.875,0.0,Neutral,2
+Hamnet,costume_design,0.925,0.2997,Positive,2
+Frankenstein,general,0.0875,0.5911500000000001,Very Positive,2
+Frankenstein,cinematography,0.13749999999999998,0.25485,Positive,2
+Frankenstein,production_design,0.5916666666666667,0.2997,Positive,2
+Frankenstein,makeup,0.25,0.0,Neutral,2
+One Battle after Another,general,0.2375,0.2628,Positive,2
+One Battle after Another,cinematography,0.675,0.47685,Positive,2
+One Battle after Another,score,0.6,0.3819,Positive,2
+Marty Supreme,general,0.0,-0.11865,Neutral,2
+Marty Supreme,cinematography,0.125,0.33525,Positive,2
+Marty Supreme,editing,0.5,0.31845,Positive,2
