@@ -1,0 +1,700 @@
+year,film,category,winner,won_gg_drama,won_gg_musical
+2024,The Zone of Interest,Best Motion Picture - Drama,False,0,0
+2024,Past Lives,Best Motion Picture - Drama,False,0,0
+2024,Oppenheimer,Best Motion Picture - Drama,True,1,0
+2024,Air,Best Motion Picture - Musical or Comedy,False,0,0
+2024,American Fiction,Best Motion Picture - Musical or Comedy,False,0,0
+2024,Barbie,Best Motion Picture - Musical or Comedy,False,0,0
+2024,The Holdovers,Best Motion Picture - Musical or Comedy,False,0,0
+2024,May December,Best Motion Picture - Musical or Comedy,False,0,0
+2024,Poor Things,Best Motion Picture - Musical or Comedy,True,0,1
+2024,Maestro,Best Motion Picture - Drama,False,0,0
+2024,Killers of the Flower Moon,Best Motion Picture - Drama,False,0,0
+2024,Anatomy of a Fall,Best Motion Picture - Drama,False,0,0
+2023,Glass Onion: A Knives Out Mystery,Best Motion Picture - Musical or Comedy,False,0,0
+2023,Triangle of Sadness,Best Motion Picture - Musical or Comedy,False,0,0
+2023,Avatar: The Way of Water,Best Motion Picture - Drama,False,0,0
+2023,Elvis,Best Motion Picture - Drama,False,0,0
+2023,The Fabelmans,Best Motion Picture - Drama,True,1,0
+2023,TÁR,Best Motion Picture - Drama,False,0,0
+2023,Top Gun: Maverick,Best Motion Picture - Drama,False,0,0
+2023,Babylon,Best Motion Picture - Musical or Comedy,False,0,0
+2023,The Banshees of Inisherin,Best Motion Picture - Musical or Comedy,True,0,1
+2023,Everything Everywhere All at Once,Best Motion Picture - Musical or Comedy,False,0,0
+2022,West Side Story (2021),Best Motion Picture - Musical or Comedy,True,0,1
+2022,"tick, tick...BOOM!",Best Motion Picture - Musical or Comedy,False,0,0
+2022,Licorice Pizza,Best Motion Picture - Musical or Comedy,False,0,0
+2022,Don't Look Up,Best Motion Picture - Musical or Comedy,False,0,0
+2022,Cyrano,Best Motion Picture - Musical or Comedy,False,0,0
+2022,The Power of the Dog,Best Motion Picture - Drama,True,1,0
+2022,King Richard,Best Motion Picture - Drama,False,0,0
+2022,CODA,Best Motion Picture - Drama,False,0,0
+2022,Belfast,Best Motion Picture - Drama,False,0,0
+2022,Dune,Best Motion Picture - Drama,False,0,0
+2021,The Prom,Best Motion Picture - Musical or Comedy,False,0,0
+2021,Palm Springs,Best Motion Picture - Musical or Comedy,False,0,0
+2021,Music,Best Motion Picture - Musical or Comedy,False,0,0
+2021,Hamilton,Best Motion Picture - Musical or Comedy,False,0,0
+2021,Borat Subsequent Moviefilm,Best Motion Picture - Musical or Comedy,True,0,1
+2021,The Trial of the Chicago 7,Best Motion Picture - Drama,False,0,0
+2021,Promising Young Woman,Best Motion Picture - Drama,False,0,0
+2021,Nomadland,Best Motion Picture - Drama,True,1,0
+2021,Mank,Best Motion Picture - Drama,False,0,0
+2021,The Father,Best Motion Picture - Drama,False,0,0
+2020,Rocketman,Best Motion Picture - Musical or Comedy,False,0,0
+2020,Once Upon a Time...in Hollywood,Best Motion Picture - Musical or Comedy,True,0,1
+2020,Knives Out,Best Motion Picture - Musical or Comedy,False,0,0
+2020,Jojo Rabbit,Best Motion Picture - Musical or Comedy,False,0,0
+2020,Dolemite Is My Name,Best Motion Picture - Musical or Comedy,False,0,0
+2020,1917,Best Motion Picture - Drama,True,1,0
+2020,The Irishman,Best Motion Picture - Drama,False,0,0
+2020,Joker,Best Motion Picture - Drama,False,0,0
+2020,Marriage Story,Best Motion Picture - Drama,False,0,0
+2020,The Two Popes,Best Motion Picture - Drama,False,0,0
+2019,Black Panther,Best Motion Picture - Drama,False,0,0
+2019,BlacKkKlansman,Best Motion Picture - Drama,False,0,0
+2019,Bohemian Rhapsody,Best Motion Picture - Drama,True,1,0
+2019,If Beale Street Could Talk,Best Motion Picture - Drama,False,0,0
+2019,"Star Is Born, A (2018)",Best Motion Picture - Drama,False,0,0
+2019,Crazy Rich Asians,Best Motion Picture - Musical or Comedy,False,0,0
+2019,The Favourite,Best Motion Picture - Musical or Comedy,False,0,0
+2019,Green Book,Best Motion Picture - Musical or Comedy,True,0,1
+2019,Mary Poppins Returns,Best Motion Picture - Musical or Comedy,False,0,0
+2019,Vice,Best Motion Picture - Musical or Comedy,False,0,0
+2018,The Disaster Artist,Best Motion Picture - Musical or Comedy,False,0,0
+2018,Call Me By Your Name,Best Motion Picture - Drama,False,0,0
+2018,Dunkirk,Best Motion Picture - Drama,False,0,0
+2018,The Post,Best Motion Picture - Drama,False,0,0
+2018,The Shape of Water,Best Motion Picture - Drama,False,0,0
+2018,"Three Billboards Outside Ebbing, Missouri",Best Motion Picture - Drama,True,1,0
+2018,Get Out,Best Motion Picture - Musical or Comedy,False,0,0
+2018,The Greatest Showman,Best Motion Picture - Musical or Comedy,False,0,0
+2018,"I, Tonya",Best Motion Picture - Musical or Comedy,False,0,0
+2018,Lady Bird,Best Motion Picture - Musical or Comedy,True,0,1
+2017,20th Century Women,Best Motion Picture - Musical or Comedy,False,0,0
+2017,Deadpool,Best Motion Picture - Musical or Comedy,False,0,0
+2017,Florence Foster Jenkins,Best Motion Picture - Musical or Comedy,False,0,0
+2017,La La Land,Best Motion Picture - Musical or Comedy,True,0,1
+2017,Sing Street,Best Motion Picture - Musical or Comedy,False,0,0
+2017,Hacksaw Ridge,Best Motion Picture - Drama,False,0,0
+2017,Hell or High Water,Best Motion Picture - Drama,False,0,0
+2017,Lion,Best Motion Picture - Drama,False,0,0
+2017,Manchester by the Sea,Best Motion Picture - Drama,False,0,0
+2017,Moonlight,Best Motion Picture - Drama,True,1,0
+2016,The Big Short,Best Motion Picture - Musical or Comedy,False,0,0
+2016,Spotlight,Best Motion Picture - Drama,False,0,0
+2016,Trainwreck,Best Motion Picture - Musical or Comedy,False,0,0
+2016,The Martian,Best Motion Picture - Musical or Comedy,True,0,1
+2016,Spy,Best Motion Picture - Musical or Comedy,False,0,0
+2016,Joy,Best Motion Picture - Musical or Comedy,False,0,0
+2016,The Revenant,Best Motion Picture - Drama,True,1,0
+2016,Room,Best Motion Picture - Drama,False,0,0
+2016,Mad Max: Fury Road,Best Motion Picture - Drama,False,0,0
+2016,Carol,Best Motion Picture - Drama,False,0,0
+2015,The Grand Budapest Hotel,Best Motion Picture - Musical or Comedy,True,0,1
+2015,Selma,Best Motion Picture - Drama,False,0,0
+2015,The Theory of Everything,Best Motion Picture - Drama,False,0,0
+2015,Boyhood,Best Motion Picture - Drama,True,1,0
+2015,The Imitation Game,Best Motion Picture - Drama,False,0,0
+2015,Birdman,Best Motion Picture - Musical or Comedy,False,0,0
+2015,Foxcatcher,Best Motion Picture - Drama,False,0,0
+2015,St. Vincent,Best Motion Picture - Musical or Comedy,False,0,0
+2015,Into the Woods,Best Motion Picture - Musical or Comedy,False,0,0
+2015,Pride,Best Motion Picture - Musical or Comedy,False,0,0
+2014,Inside Llewyn Davis,Best Motion Picture - Musical or Comedy,False,0,0
+2014,Rush,Best Motion Picture - Drama,False,0,0
+2014,American Hustle,Best Motion Picture - Musical or Comedy,True,0,1
+2014,Nebraska,Best Motion Picture - Musical or Comedy,False,0,0
+2014,Her,Best Motion Picture - Musical or Comedy,False,0,0
+2014,The Wolf of Wall Street,Best Motion Picture - Musical or Comedy,False,0,0
+2014,12 Years a Slave,Best Motion Picture - Drama,True,1,0
+2014,Philomena,Best Motion Picture - Drama,False,0,0
+2014,Gravity,Best Motion Picture - Drama,False,0,0
+2014,Captain Phillips,Best Motion Picture - Drama,False,0,0
+2013,Zero Dark Thirty,Best Motion Picture - Drama,False,0,0
+2013,Lincoln,Best Motion Picture - Drama,False,0,0
+2013,Life of Pi,Best Motion Picture - Drama,False,0,0
+2013,Argo,Best Motion Picture - Drama,True,1,0
+2013,Django Unchained,Best Motion Picture - Drama,False,0,0
+2013,Silver Linings Playbook,Best Motion Picture - Musical or Comedy,False,0,0
+2013,Salmon Fishing in the Yemen,Best Motion Picture - Musical or Comedy,False,0,0
+2013,Moonrise Kingdom,Best Motion Picture - Musical or Comedy,False,0,0
+2013,Les Misérables,Best Motion Picture - Musical or Comedy,True,0,1
+2013,The Best Exotic Marigold Hotel,Best Motion Picture - Musical or Comedy,False,0,0
+2012,The Descendants,Best Motion Picture - Drama,True,1,0
+2012,Moneyball,Best Motion Picture - Drama,False,0,0
+2012,The Help,Best Motion Picture - Drama,False,0,0
+2012,Hugo,Best Motion Picture - Drama,False,0,0
+2012,The Ides of March,Best Motion Picture - Drama,False,0,0
+2012,50/50,Best Motion Picture - Musical or Comedy,False,0,0
+2012,War Horse,Best Motion Picture - Drama,False,0,0
+2012,The Artist,Best Motion Picture - Musical or Comedy,True,0,1
+2012,Bridesmaids,Best Motion Picture - Musical or Comedy,False,0,0
+2012,My Week With Marilyn,Best Motion Picture - Musical or Comedy,False,0,0
+2012,Midnight In Paris,Best Motion Picture - Musical or Comedy,False,0,0
+2011,Black Swan,Best Motion Picture - Drama,False,0,0
+2011,Burlesque,Best Motion Picture - Musical or Comedy,False,0,0
+2011,The Tourist,Best Motion Picture - Musical or Comedy,False,0,0
+2011,Red,Best Motion Picture - Musical or Comedy,False,0,0
+2011,The Kids Are All Right,Best Motion Picture - Musical or Comedy,True,0,1
+2011,The Fighter,Best Motion Picture - Drama,False,0,0
+2011,Alice in Wonderland,Best Motion Picture - Musical or Comedy,False,0,0
+2011,The Social Network,Best Motion Picture - Drama,True,1,0
+2011,The King's Speech,Best Motion Picture - Drama,False,0,0
+2011,Inception,Best Motion Picture - Drama,False,0,0
+2010,Up In The Air,Best Motion Picture - Drama,False,0,0
+2010,Nine,Best Motion Picture - Musical or Comedy,False,0,0
+2010,Julie & Julia,Best Motion Picture - Musical or Comedy,False,0,0
+2010,It's Complicated,Best Motion Picture - Musical or Comedy,False,0,0
+2010,Precious: Based on the novel Push by Sapphire,Best Motion Picture - Drama,False,0,0
+2010,Inglourious Basterds,Best Motion Picture - Drama,False,0,0
+2010,The Hurt Locker,Best Motion Picture - Drama,False,0,0
+2010,Avatar,Best Motion Picture - Drama,True,1,0
+2010,The Hangover,Best Motion Picture - Musical or Comedy,True,0,1
+2010,(500) Days of Summer,Best Motion Picture - Musical or Comedy,False,0,0
+2009,Vicky Cristina Barcelona,Best Motion Picture - Musical or Comedy,True,0,1
+2009,Mamma Mia!,Best Motion Picture - Musical or Comedy,False,0,0
+2009,In Bruges,Best Motion Picture - Musical or Comedy,False,0,0
+2009,Happy-Go-Lucky,Best Motion Picture - Musical or Comedy,False,0,0
+2009,Burn After Reading,Best Motion Picture - Musical or Comedy,False,0,0
+2009,Slumdog Millionaire,Best Motion Picture - Drama,True,1,0
+2009,Revolutionary Road,Best Motion Picture - Drama,False,0,0
+2009,The Reader,Best Motion Picture - Drama,False,0,0
+2009,Frost/Nixon,Best Motion Picture - Drama,False,0,0
+2009,The Curious Case of Benjamin Button,Best Motion Picture - Drama,False,0,0
+2008,Atonement,Best Motion Picture - Drama,True,1,0
+2008,Sweeney Todd: The Demon Barber of Fleet Street,Best Motion Picture - Musical or Comedy,True,0,1
+2008,Juno,Best Motion Picture - Musical or Comedy,False,0,0
+2008,Hairspray,Best Motion Picture - Musical or Comedy,False,0,0
+2008,Charlie Wilson's War,Best Motion Picture - Musical or Comedy,False,0,0
+2008,Across The Universe,Best Motion Picture - Musical or Comedy,False,0,0
+2008,There Will Be Blood,Best Motion Picture - Drama,False,0,0
+2008,No Country for Old Men,Best Motion Picture - Drama,False,0,0
+2008,Michael Clayton,Best Motion Picture - Drama,False,0,0
+2008,The Great Debaters,Best Motion Picture - Drama,False,0,0
+2008,Eastern Promises,Best Motion Picture - Drama,False,0,0
+2008,American Gangster,Best Motion Picture - Drama,False,0,0
+2007,The Queen,Best Motion Picture - Drama,False,0,0
+2007,The Devil Wears Prada,Best Motion Picture - Musical or Comedy,False,0,0
+2007,Dreamgirls,Best Motion Picture - Musical or Comedy,True,0,1
+2007,Little Miss Sunshine,Best Motion Picture - Musical or Comedy,False,0,0
+2007,Thank You For Smoking,Best Motion Picture - Musical or Comedy,False,0,0
+2007,Borat,Best Motion Picture - Musical or Comedy,False,0,0
+2007,Little Children,Best Motion Picture - Drama,False,0,0
+2007,Babel,Best Motion Picture - Drama,True,1,0
+2007,Bobby,Best Motion Picture - Drama,False,0,0
+2007,The Departed,Best Motion Picture - Drama,False,0,0
+2006,The Constant Gardener,Best Motion Picture - Drama,False,0,0
+2006,Brokeback Mountain,Best Motion Picture - Drama,True,1,0
+2006,"Good Night, and Good Luck",Best Motion Picture - Drama,False,0,0
+2006,A History of Violence,Best Motion Picture - Drama,False,0,0
+2006,Walk The Line,Best Motion Picture - Musical or Comedy,True,0,1
+2006,The Squid and the Whale,Best Motion Picture - Musical or Comedy,False,0,0
+2006,The Producers,Best Motion Picture - Musical or Comedy,False,0,0
+2006,Pride & Prejudice,Best Motion Picture - Musical or Comedy,False,0,0
+2006,Mrs. Henderson Presents,Best Motion Picture - Musical or Comedy,False,0,0
+2006,Match Point,Best Motion Picture - Drama,False,0,0
+2005,Eternal Sunshine of The Spotless Mind,Best Motion Picture - Musical or Comedy,False,0,0
+2005,Hotel Rwanda,Best Motion Picture - Drama,False,0,0
+2005,Finding Neverland,Best Motion Picture - Drama,False,0,0
+2005,Closer,Best Motion Picture - Drama,False,0,0
+2005,The Aviator,Best Motion Picture - Drama,True,1,0
+2005,Sideways,Best Motion Picture - Musical or Comedy,True,0,1
+2005,The Phantom of the Opera,Best Motion Picture - Musical or Comedy,False,0,0
+2005,Ray,Best Motion Picture - Musical or Comedy,False,0,0
+2005,The Incredibles,Best Motion Picture - Musical or Comedy,False,0,0
+2005,Million Dollar Baby,Best Motion Picture - Drama,False,0,0
+2005,Kinsey,Best Motion Picture - Drama,False,0,0
+2004,Master and Commander: The Far Side of the World,Best Motion Picture - Drama,False,0,0
+2004,Lost in Translation,Best Motion Picture - Musical or Comedy,True,0,1
+2004,Love Actually,Best Motion Picture - Musical or Comedy,False,0,0
+2004,Finding Nemo,Best Motion Picture - Musical or Comedy,False,0,0
+2004,Big Fish,Best Motion Picture - Musical or Comedy,False,0,0
+2004,Bend It Like Beckham,Best Motion Picture - Musical or Comedy,False,0,0
+2004,The Lord of the Rings: The Return of the King,Best Motion Picture - Drama,True,1,0
+2004,Seabiscuit,Best Motion Picture - Drama,False,0,0
+2004,Cold Mountain,Best Motion Picture - Drama,False,0,0
+2004,Mystic River,Best Motion Picture - Drama,False,0,0
+2003,Chicago,Best Motion Picture - Musical or Comedy,True,0,1
+2003,Gangs of New York,Best Motion Picture - Drama,False,0,0
+2003,The Lord of the Rings: The Two Towers,Best Motion Picture - Drama,False,0,0
+2003,The Pianist,Best Motion Picture - Drama,False,0,0
+2003,The Hours,Best Motion Picture - Drama,True,1,0
+2003,About a Boy,Best Motion Picture - Musical or Comedy,False,0,0
+2003,Adaptation,Best Motion Picture - Musical or Comedy,False,0,0
+2003,My Big Fat Greek Wedding,Best Motion Picture - Musical or Comedy,False,0,0
+2003,Nicholas Nickleby,Best Motion Picture - Musical or Comedy,False,0,0
+2003,About Schmidt,Best Motion Picture - Drama,False,0,0
+2002,In the Bedroom,Best Motion Picture - Drama,False,0,0
+2002,The Lord of the Rings: The Fellowship of the Ring,Best Motion Picture - Drama,False,0,0
+2002,The Man Who Wasn't There,Best Motion Picture - Drama,False,0,0
+2002,Mulholland Dr.,Best Motion Picture - Drama,False,0,0
+2002,A Beautiful Mind,Best Motion Picture - Drama,True,1,0
+2002,Bridget Jones's Diary,Best Motion Picture - Musical or Comedy,False,0,0
+2002,Gosford Park,Best Motion Picture - Musical or Comedy,False,0,0
+2002,Legally Blonde,Best Motion Picture - Musical or Comedy,False,0,0
+2002,Shrek,Best Motion Picture - Musical or Comedy,False,0,0
+2002,Moulin Rouge!,Best Motion Picture - Musical or Comedy,True,0,1
+2001,Billy Elliot,Best Motion Picture - Drama,False,0,0
+2001,Erin Brockovich,Best Motion Picture - Drama,False,0,0
+2001,Sunshine,Best Motion Picture - Drama,False,0,0
+2001,Almost Famous,Best Motion Picture - Musical or Comedy,True,0,1
+2001,"O Brother, Where Art Thou?",Best Motion Picture - Musical or Comedy,False,0,0
+2001,Chocolat,Best Motion Picture - Musical or Comedy,False,0,0
+2001,Chicken Run,Best Motion Picture - Musical or Comedy,False,0,0
+2001,Best in Show,Best Motion Picture - Musical or Comedy,False,0,0
+2001,Gladiator,Best Motion Picture - Drama,True,1,0
+2001,Wonder Boys,Best Motion Picture - Drama,False,0,0
+2001,Traffic,Best Motion Picture - Drama,False,0,0
+2000,Notting Hill,Best Motion Picture - Musical or Comedy,False,0,0
+2000,Man on the Moon,Best Motion Picture - Musical or Comedy,False,0,0
+2000,Being John Malkovich,Best Motion Picture - Musical or Comedy,False,0,0
+2000,Analyze This,Best Motion Picture - Musical or Comedy,False,0,0
+2000,American Beauty,Best Motion Picture - Drama,True,1,0
+2000,The Talented Mr. Ripley,Best Motion Picture - Drama,False,0,0
+2000,The Insider,Best Motion Picture - Drama,False,0,0
+2000,The Hurricane,Best Motion Picture - Drama,False,0,0
+2000,The End of the Affair,Best Motion Picture - Drama,False,0,0
+2000,Toy Story 2,Best Motion Picture - Musical or Comedy,True,0,1
+1999,Patch Adams,Best Motion Picture - Musical or Comedy,False,0,0
+1999,The Mask of Zorro,Best Motion Picture - Musical or Comedy,False,0,0
+1999,Bulworth,Best Motion Picture - Musical or Comedy,False,0,0
+1999,Saving Private Ryan,Best Motion Picture - Drama,True,1,0
+1999,The Truman Show,Best Motion Picture - Drama,False,0,0
+1999,The Horse Whisperer,Best Motion Picture - Drama,False,0,0
+1999,Elizabeth,Best Motion Picture - Drama,False,0,0
+1999,There's Something About Mary,Best Motion Picture - Musical or Comedy,False,0,0
+1999,Still Crazy,Best Motion Picture - Musical or Comedy,False,0,0
+1999,Gods and Monsters,Best Motion Picture - Drama,False,0,0
+1999,Shakespeare in Love,Best Motion Picture - Musical or Comedy,True,0,1
+1998,L.A. Confidential,Best Motion Picture - Drama,False,0,0
+1998,As Good as It Gets,Best Motion Picture - Musical or Comedy,True,0,1
+1998,Titanic,Best Motion Picture - Drama,True,1,0
+1998,My Best Friend's Wedding,Best Motion Picture - Musical or Comedy,False,0,0
+1998,Men in Black,Best Motion Picture - Musical or Comedy,False,0,0
+1998,The Full Monty,Best Motion Picture - Musical or Comedy,False,0,0
+1998,The Boxer,Best Motion Picture - Drama,False,0,0
+1998,Good Will Hunting,Best Motion Picture - Drama,False,0,0
+1998,Amistad,Best Motion Picture - Drama,False,0,0
+1998,Wag the Dog,Best Motion Picture - Musical or Comedy,False,0,0
+1997,Jerry Maguire,Best Motion Picture - Musical or Comedy,False,0,0
+1997,Fargo,Best Motion Picture - Musical or Comedy,False,0,0
+1997,Everyone Says I Love You,Best Motion Picture - Musical or Comedy,False,0,0
+1997,The Birdcage,Best Motion Picture - Musical or Comedy,False,0,0
+1997,The English Patient,Best Motion Picture - Drama,True,1,0
+1997,Shine,Best Motion Picture - Drama,False,0,0
+1997,Secrets & Lies,Best Motion Picture - Drama,False,0,0
+1997,The People vs. Larry Flynt,Best Motion Picture - Drama,False,0,0
+1997,Breaking the Waves,Best Motion Picture - Drama,False,0,0
+1997,Evita,Best Motion Picture - Musical or Comedy,True,0,1
+1996,Babe,Best Motion Picture - Musical or Comedy,True,0,1
+1996,Toy Story,Best Motion Picture - Musical or Comedy,False,0,0
+1996,Sabrina (1995),Best Motion Picture - Musical or Comedy,False,0,0
+1996,Get Shorty,Best Motion Picture - Musical or Comedy,False,0,0
+1996,The American President,Best Motion Picture - Musical or Comedy,False,0,0
+1996,Sense and Sensibility,Best Motion Picture - Drama,True,1,0
+1996,Leaving Las Vegas,Best Motion Picture - Drama,False,0,0
+1996,The Bridges of Madison County,Best Motion Picture - Drama,False,0,0
+1996,Braveheart,Best Motion Picture - Drama,False,0,0
+1996,Apollo 13,Best Motion Picture - Drama,False,0,0
+1995,Four Weddings and a Funeral,Best Motion Picture - Musical or Comedy,False,0,0
+1995,Nell,Best Motion Picture - Drama,False,0,0
+1995,Pulp Fiction,Best Motion Picture - Drama,False,0,0
+1995,Quiz Show,Best Motion Picture - Drama,False,0,0
+1995,Forrest Gump,Best Motion Picture - Drama,True,1,0
+1995,Queen of the Desert Adventures of Priscilla,Best Motion Picture - Musical or Comedy,False,0,0
+1995,Ed Wood,Best Motion Picture - Musical or Comedy,False,0,0
+1995,Ready to Wear,Best Motion Picture - Musical or Comedy,False,0,0
+1995,The Lion King (1994),Best Motion Picture - Musical or Comedy,True,0,1
+1995,Legends of the Fall,Best Motion Picture - Drama,False,0,0
+1994,Mrs. Doubtfire,Best Motion Picture - Musical or Comedy,True,0,1
+1994,Strictly Ballroom,Best Motion Picture - Musical or Comedy,False,0,0
+1994,Sleepless in Seattle,Best Motion Picture - Musical or Comedy,False,0,0
+1994,Much Ado About Nothing,Best Motion Picture - Musical or Comedy,False,0,0
+1994,Dave,Best Motion Picture - Musical or Comedy,False,0,0
+1994,Schindler's List,Best Motion Picture - Drama,True,1,0
+1994,The Remains of the Day,Best Motion Picture - Drama,False,0,0
+1994,The Piano,Best Motion Picture - Drama,False,0,0
+1994,In the Name of the Father,Best Motion Picture - Drama,False,0,0
+1994,The Age of Innocence,Best Motion Picture - Drama,False,0,0
+1993,The Crying Game,Best Motion Picture - Drama,False,0,0
+1993,The Player,Best Motion Picture - Musical or Comedy,True,0,1
+1993,Sister Act,Best Motion Picture - Musical or Comedy,False,0,0
+1993,Honeymoon In Vegas,Best Motion Picture - Musical or Comedy,False,0,0
+1993,Enchanted April,Best Motion Picture - Musical or Comedy,False,0,0
+1993,Aladdin,Best Motion Picture - Musical or Comedy,False,0,0
+1993,Scent of a Woman,Best Motion Picture - Drama,True,1,0
+1993,Unforgiven,Best Motion Picture - Drama,False,0,0
+1993,Howards End,Best Motion Picture - Drama,False,0,0
+1993,"Few Good Men, A",Best Motion Picture - Drama,False,0,0
+1992,City Slickers,Best Motion Picture - Musical or Comedy,False,0,0
+1992,Bugsy,Best Motion Picture - Drama,True,1,0
+1992,JFK,Best Motion Picture - Drama,False,0,0
+1992,The Prince of Tides,Best Motion Picture - Drama,False,0,0
+1992,The Silence of the Lambs,Best Motion Picture - Drama,False,0,0
+1992,The Commitments,Best Motion Picture - Musical or Comedy,False,0,0
+1992,Thelma & Louise,Best Motion Picture - Drama,False,0,0
+1992,Beauty and the Beast,Best Motion Picture - Musical or Comedy,True,0,1
+1992,Fried Green Tomatoes,Best Motion Picture - Musical or Comedy,False,0,0
+1992,The Fisher King,Best Motion Picture - Musical or Comedy,False,0,0
+1991,Green Card,Best Motion Picture - Musical or Comedy,True,0,1
+1991,Pretty Woman,Best Motion Picture - Musical or Comedy,False,0,0
+1991,Home Alone,Best Motion Picture - Musical or Comedy,False,0,0
+1991,Ghost,Best Motion Picture - Musical or Comedy,False,0,0
+1991,Dick Tracy,Best Motion Picture - Musical or Comedy,False,0,0
+1991,Dances with Wolves,Best Motion Picture - Drama,True,1,0
+1991,Reversal of Fortune,Best Motion Picture - Drama,False,0,0
+1991,GoodFellas,Best Motion Picture - Drama,False,0,0
+1991,The Godfather Part III,Best Motion Picture - Drama,False,0,0
+1991,Avalon,Best Motion Picture - Drama,False,0,0
+1990,Glory,Best Motion Picture - Drama,False,0,0
+1990,Crimes and Misdemeanors,Best Motion Picture - Drama,False,0,0
+1990,Dead Poets Society,Best Motion Picture - Drama,False,0,0
+1990,Do The Right Thing,Best Motion Picture - Drama,False,0,0
+1990,Born on the Fourth of July,Best Motion Picture - Drama,True,1,0
+1990,The Little Mermaid,Best Motion Picture - Musical or Comedy,False,0,0
+1990,Shirley Valentine,Best Motion Picture - Musical or Comedy,False,0,0
+1990,The War of The Roses,Best Motion Picture - Musical or Comedy,False,0,0
+1990,When Harry Met Sally,Best Motion Picture - Musical or Comedy,False,0,0
+1990,Driving Miss Daisy,Best Motion Picture - Musical or Comedy,True,0,1
+1989,Working Girl,Best Motion Picture - Musical or Comedy,True,0,1
+1989,Who Framed Roger Rabbit,Best Motion Picture - Musical or Comedy,False,0,0
+1989,Midnight Run,Best Motion Picture - Musical or Comedy,False,0,0
+1989,"Fish Called Wanda, A",Best Motion Picture - Musical or Comedy,False,0,0
+1989,Big,Best Motion Picture - Musical or Comedy,False,0,0
+1989,Rain Man,Best Motion Picture - Drama,True,1,0
+1989,The Unbearable Lightness of Being,Best Motion Picture - Drama,False,0,0
+1989,Running on Empty,Best Motion Picture - Drama,False,0,0
+1989,Mississippi Burning,Best Motion Picture - Drama,False,0,0
+1989,Gorillas in the Mist: The Adventure of Dian Fossey,Best Motion Picture - Drama,False,0,0
+1989,"Cry in the Dark, A",Best Motion Picture - Drama,False,0,0
+1989,The Accidental Tourist,Best Motion Picture - Drama,False,0,0
+1988,Hope and Glory,Best Motion Picture - Musical or Comedy,True,0,1
+1988,Moonstruck,Best Motion Picture - Musical or Comedy,False,0,0
+1988,Dirty Dancing,Best Motion Picture - Musical or Comedy,False,0,0
+1988,Broadcast News,Best Motion Picture - Musical or Comedy,False,0,0
+1988,Baby Boom,Best Motion Picture - Musical or Comedy,False,0,0
+1988,The Last Emperor,Best Motion Picture - Drama,True,1,0
+1988,Nuts,Best Motion Picture - Drama,False,0,0
+1988,La Bamba,Best Motion Picture - Drama,False,0,0
+1988,Fatal Attraction,Best Motion Picture - Drama,False,0,0
+1988,Empire of the Sun,Best Motion Picture - Drama,False,0,0
+1988,Cry Freedom,Best Motion Picture - Drama,False,0,0
+1987,Crocodile Dundee,Best Motion Picture - Musical or Comedy,False,0,0
+1987,Hannah and Her Sisters,Best Motion Picture - Musical or Comedy,True,0,1
+1987,Peggy Sue Got Married,Best Motion Picture - Musical or Comedy,False,0,0
+1987,Little Shop of Horrors,Best Motion Picture - Musical or Comedy,False,0,0
+1987,Down and Out In Beverly Hills,Best Motion Picture - Musical or Comedy,False,0,0
+1987,Crimes of the Heart,Best Motion Picture - Musical or Comedy,False,0,0
+1987,Platoon,Best Motion Picture - Drama,True,1,0
+1987,"Room with a View, A",Best Motion Picture - Drama,False,0,0
+1987,Mona Lisa,Best Motion Picture - Drama,False,0,0
+1987,The Mission,Best Motion Picture - Drama,False,0,0
+1987,Children of a Lesser God,Best Motion Picture - Drama,False,0,0
+1987,Stand By Me,Best Motion Picture - Drama,False,0,0
+1986,The Purple Rose of Cairo,Best Motion Picture - Musical or Comedy,False,0,0
+1986,Runaway Train,Best Motion Picture - Drama,False,0,0
+1986,Witness,Best Motion Picture - Drama,False,0,0
+1986,Out of Africa,Best Motion Picture - Drama,True,1,0
+1986,Back to the Future,Best Motion Picture - Musical or Comedy,False,0,0
+1986,"Chorus Line: The Movie, A",Best Motion Picture - Musical or Comedy,False,0,0
+1986,Cocoon,Best Motion Picture - Musical or Comedy,False,0,0
+1986,Prizzi's Honor,Best Motion Picture - Musical or Comedy,True,0,1
+1986,The Color Purple,Best Motion Picture - Drama,False,0,0
+1986,Kiss of the Spider Woman,Best Motion Picture - Drama,False,0,0
+1985,Romancing the Stone,Best Motion Picture - Musical or Comedy,True,0,1
+1985,Splash,Best Motion Picture - Musical or Comedy,False,0,0
+1985,Micki & Maude,Best Motion Picture - Musical or Comedy,False,0,0
+1985,Ghostbusters,Best Motion Picture - Musical or Comedy,False,0,0
+1985,Beverly Hills Cop,Best Motion Picture - Musical or Comedy,False,0,0
+1985,Amadeus,Best Motion Picture - Drama,True,1,0
+1985,Places in the Heart,Best Motion Picture - Drama,False,0,0
+1985,The Killing Fields,Best Motion Picture - Drama,False,0,0
+1985,The Cotton Club,Best Motion Picture - Drama,False,0,0
+1985,"Soldier's Story, A",Best Motion Picture - Drama,False,0,0
+1984,Zelig,Best Motion Picture - Musical or Comedy,False,0,0
+1984,Yentl,Best Motion Picture - Musical or Comedy,True,0,1
+1984,Trading Places,Best Motion Picture - Musical or Comedy,False,0,0
+1984,Flashdance,Best Motion Picture - Musical or Comedy,False,0,0
+1984,The Big Chill,Best Motion Picture - Musical or Comedy,False,0,0
+1984,Terms of Endearment,Best Motion Picture - Drama,True,1,0
+1984,Tender Mercies,Best Motion Picture - Drama,False,0,0
+1984,Silkwood,Best Motion Picture - Drama,False,0,0
+1984,The Right Stuff,Best Motion Picture - Drama,False,0,0
+1984,"Reuben, Reuben",Best Motion Picture - Drama,False,0,0
+1983,My Favorite Year,Best Motion Picture - Musical or Comedy,False,0,0
+1983,Victor Victoria,Best Motion Picture - Musical or Comedy,False,0,0
+1983,Tootsie,Best Motion Picture - Musical or Comedy,True,0,1
+1983,The Best Little Whorehouse In Texas,Best Motion Picture - Musical or Comedy,False,0,0
+1983,Diner,Best Motion Picture - Musical or Comedy,False,0,0
+1983,E. T. The Extra-Terrestrial,Best Motion Picture - Drama,True,1,0
+1983,The Verdict,Best Motion Picture - Drama,False,0,0
+1983,Missing,Best Motion Picture - Drama,False,0,0
+1983,"Officer and a Gentleman, An",Best Motion Picture - Drama,False,0,0
+1983,Sophie's Choice,Best Motion Picture - Drama,False,0,0
+1982,Prince of the City,Best Motion Picture - Drama,False,0,0
+1982,Reds,Best Motion Picture - Drama,False,0,0
+1982,Ragtime,Best Motion Picture - Drama,False,0,0
+1982,The French Lieutenant's Woman,Best Motion Picture - Drama,False,0,0
+1982,On Golden Pond,Best Motion Picture - Drama,True,1,0
+1982,The Four Seasons,Best Motion Picture - Musical or Comedy,False,0,0
+1982,Arthur,Best Motion Picture - Musical or Comedy,True,0,1
+1982,Zoot Suit,Best Motion Picture - Musical or Comedy,False,0,0
+1982,S. O. B.,Best Motion Picture - Musical or Comedy,False,0,0
+1982,Pennies from Heaven,Best Motion Picture - Musical or Comedy,False,0,0
+1981,Airplane!,Best Motion Picture - Musical or Comedy,False,0,0
+1981,The Stunt Man,Best Motion Picture - Drama,False,0,0
+1981,Raging Bull,Best Motion Picture - Drama,False,0,0
+1981,The Ninth Configuration,Best Motion Picture - Drama,False,0,0
+1981,The Elephant Man,Best Motion Picture - Drama,False,0,0
+1981,The Idolmaker,Best Motion Picture - Musical or Comedy,False,0,0
+1981,Fame,Best Motion Picture - Musical or Comedy,False,0,0
+1981,Melvin and Howard,Best Motion Picture - Musical or Comedy,False,0,0
+1981,Coal Miner's Daughter,Best Motion Picture - Musical or Comedy,True,0,1
+1981,Ordinary People,Best Motion Picture - Drama,True,1,0
+1980,Breaking Away,Best Motion Picture - Musical or Comedy,True,0,1
+1980,Norma Rae,Best Motion Picture - Drama,False,0,0
+1980,Kramer vs. Kramer,Best Motion Picture - Drama,True,1,0
+1980,Being There,Best Motion Picture - Musical or Comedy,False,0,0
+1980,Hair,Best Motion Picture - Musical or Comedy,False,0,0
+1980,The Rose,Best Motion Picture - Musical or Comedy,False,0,0
+1980,10,Best Motion Picture - Musical or Comedy,False,0,0
+1980,The China Syndrome,Best Motion Picture - Drama,False,0,0
+1980,Manhattan,Best Motion Picture - Drama,False,0,0
+1980,Apocalypse Now,Best Motion Picture - Drama,False,0,0
+1979,Heaven Can Wait,Best Motion Picture - Musical or Comedy,True,0,1
+1979,Movie Movie,Best Motion Picture - Musical or Comedy,False,0,0
+1979,Grease,Best Motion Picture - Musical or Comedy,False,0,0
+1979,Foul Play,Best Motion Picture - Musical or Comedy,False,0,0
+1979,California Suite,Best Motion Picture - Musical or Comedy,False,0,0
+1979,Midnight Express,Best Motion Picture - Drama,True,1,0
+1979,"Unmarried Woman, An",Best Motion Picture - Drama,False,0,0
+1979,The Deer Hunter,Best Motion Picture - Drama,False,0,0
+1979,Days of Heaven,Best Motion Picture - Drama,False,0,0
+1979,Coming Home,Best Motion Picture - Drama,False,0,0
+1978,The Goodbye Girl,Best Motion Picture - Musical or Comedy,True,0,1
+1978,Saturday Night Fever,Best Motion Picture - Musical or Comedy,False,0,0
+1978,"New York, New York",Best Motion Picture - Musical or Comedy,False,0,0
+1978,High Anxiety,Best Motion Picture - Musical or Comedy,False,0,0
+1978,Annie Hall,Best Motion Picture - Musical or Comedy,False,0,0
+1978,The Turning Point,Best Motion Picture - Drama,True,1,0
+1978,Star Wars: Episode IV - A New Hope,Best Motion Picture - Drama,False,0,0
+1978,Julia,Best Motion Picture - Drama,False,0,0
+1978,Close Encounters of the Third Kind,Best Motion Picture - Drama,False,0,0
+1978,I Never Promised You a Rose Garden,Best Motion Picture - Drama,False,0,0
+1977,"Star Is Born, A (1976)",Best Motion Picture - Musical or Comedy,True,0,1
+1977,Silent Movie,Best Motion Picture - Musical or Comedy,False,0,0
+1977,The Pink Panther Strikes Again,Best Motion Picture - Musical or Comedy,False,0,0
+1977,The Ritz,Best Motion Picture - Musical or Comedy,False,0,0
+1977,Bugsy Malone,Best Motion Picture - Musical or Comedy,False,0,0
+1977,Rocky,Best Motion Picture - Drama,True,1,0
+1977,All The President's Men,Best Motion Picture - Drama,False,0,0
+1977,Bound for Glory,Best Motion Picture - Drama,False,0,0
+1977,Network,Best Motion Picture - Drama,False,0,0
+1977,Voyage of the Damned,Best Motion Picture - Drama,False,0,0
+1976,Barry Lyndon,Best Motion Picture - Drama,False,0,0
+1976,The Sunshine Boys,Best Motion Picture - Musical or Comedy,True,0,1
+1976,Tommy,Best Motion Picture - Musical or Comedy,False,0,0
+1976,Shampoo,Best Motion Picture - Musical or Comedy,False,0,0
+1976,The Return of the Pink Panther,Best Motion Picture - Musical or Comedy,False,0,0
+1976,Funny Lady,Best Motion Picture - Musical or Comedy,False,0,0
+1976,One Flew Over The Cuckoo's Nest,Best Motion Picture - Drama,True,1,0
+1976,Nashville,Best Motion Picture - Drama,False,0,0
+1976,Jaws,Best Motion Picture - Drama,False,0,0
+1976,Dog Day Afternoon,Best Motion Picture - Drama,False,0,0
+1975,The Longest Yard,Best Motion Picture - Musical or Comedy,True,0,1
+1975,The Three Musketeers,Best Motion Picture - Musical or Comedy,False,0,0
+1975,The Little Prince,Best Motion Picture - Musical or Comedy,False,0,0
+1975,Harry & Tonto,Best Motion Picture - Musical or Comedy,False,0,0
+1975,The Front Page,Best Motion Picture - Musical or Comedy,False,0,0
+1975,Chinatown,Best Motion Picture - Drama,True,1,0
+1975,"Woman Under The Influence, A",Best Motion Picture - Drama,False,0,0
+1975,The Godfather Part II,Best Motion Picture - Drama,False,0,0
+1975,Earthquake,Best Motion Picture - Drama,False,0,0
+1975,The Conversation,Best Motion Picture - Drama,False,0,0
+1974,American Graffiti,Best Motion Picture - Musical or Comedy,True,0,1
+1974,"Touch of Class, A",Best Motion Picture - Musical or Comedy,False,0,0
+1974,Tom Sawyer,Best Motion Picture - Musical or Comedy,False,0,0
+1974,Paper Moon,Best Motion Picture - Musical or Comedy,False,0,0
+1974,Jesus Christ Superstar,Best Motion Picture - Musical or Comedy,False,0,0
+1974,The Exorcist,Best Motion Picture - Drama,True,1,0
+1974,Serpico,Best Motion Picture - Drama,False,0,0
+1974,Last Tango in Paris,Best Motion Picture - Drama,False,0,0
+1974,The Day of the Jackal,Best Motion Picture - Drama,False,0,0
+1974,Cinderella Liberty,Best Motion Picture - Drama,False,0,0
+1974,Save the Tiger,Best Motion Picture - Drama,False,0,0
+1973,Avanti!,Best Motion Picture - Musical or Comedy,False,0,0
+1973,Butterflies Are Free,Best Motion Picture - Musical or Comedy,False,0,0
+1973,1776,Best Motion Picture - Musical or Comedy,False,0,0
+1973,Travels with My Aunt,Best Motion Picture - Musical or Comedy,False,0,0
+1973,Cabaret,Best Motion Picture - Musical or Comedy,True,0,1
+1973,The Godfather,Best Motion Picture - Drama,True,1,0
+1973,Sleuth,Best Motion Picture - Drama,False,0,0
+1973,The Poseidon Adventure,Best Motion Picture - Drama,False,0,0
+1973,Frenzy,Best Motion Picture - Drama,False,0,0
+1973,Deliverance,Best Motion Picture - Drama,False,0,0
+1972,"Clockwork Orange, A",Best Motion Picture - Drama,False,0,0
+1972,"Mary, Queen of Scots",Best Motion Picture - Drama,False,0,0
+1972,The Last Picture Show,Best Motion Picture - Drama,False,0,0
+1972,Plaza Suite,Best Motion Picture - Musical or Comedy,False,0,0
+1972,Fiddler on the Roof,Best Motion Picture - Musical or Comedy,True,0,1
+1972,Summer of '42,Best Motion Picture - Drama,False,0,0
+1972,"New Leaf, A",Best Motion Picture - Musical or Comedy,False,0,0
+1972,Kotch,Best Motion Picture - Musical or Comedy,False,0,0
+1972,The Boy Friend,Best Motion Picture - Musical or Comedy,False,0,0
+1972,The French Connection,Best Motion Picture - Drama,True,1,0
+1971,Darling Lili,Best Motion Picture - Musical or Comedy,False,0,0
+1971,Scrooge,Best Motion Picture - Musical or Comedy,False,0,0
+1971,Lovers and Other Strangers,Best Motion Picture - Musical or Comedy,False,0,0
+1971,Diary of a Mad Housewife,Best Motion Picture - Musical or Comedy,False,0,0
+1971,M*A*S*H,Best Motion Picture - Musical or Comedy,True,0,1
+1971,Love Story,Best Motion Picture - Drama,True,1,0
+1971,Patton,Best Motion Picture - Drama,False,0,0
+1971,Airport,Best Motion Picture - Drama,False,0,0
+1971,Five Easy Pieces,Best Motion Picture - Drama,False,0,0
+1971,I Never Sang For My Father,Best Motion Picture - Drama,False,0,0
+1970,Anne of the Thousand Days,Best Motion Picture - Drama,True,1,0
+1970,The Secret of Santa Vittoria,Best Motion Picture - Musical or Comedy,True,0,1
+1970,"Hello, Dolly!",Best Motion Picture - Musical or Comedy,False,0,0
+1970,"Goodbye, Columbus",Best Motion Picture - Musical or Comedy,False,0,0
+1970,Cactus Flower,Best Motion Picture - Musical or Comedy,False,0,0
+1970,"They Shoot Horses, Don't They?",Best Motion Picture - Drama,False,0,0
+1970,The Prime of Miss Jean Brodie,Best Motion Picture - Drama,False,0,0
+1970,Midnight Cowboy,Best Motion Picture - Drama,False,0,0
+1970,Butch Cassidy and The Sundance Kid,Best Motion Picture - Drama,False,0,0
+1970,Paint Your Wagon,Best Motion Picture - Musical or Comedy,False,0,0
+1969,The Shoes of the Fisherman,Best Motion Picture - Drama,False,0,0
+1969,The Heart Is a Lonely Hunter,Best Motion Picture - Drama,False,0,0
+1969,Funny Girl,Best Motion Picture - Musical or Comedy,False,0,0
+1969,"Yours, Mine and Ours",Best Motion Picture - Musical or Comedy,False,0,0
+1969,Oliver!,Best Motion Picture - Musical or Comedy,True,0,1
+1969,The (1968) Odd Couple,Best Motion Picture - Musical or Comedy,False,0,0
+1969,Finian's Rainbow,Best Motion Picture - Musical or Comedy,False,0,0
+1969,The Fixer,Best Motion Picture - Drama,False,0,0
+1969,Charly,Best Motion Picture - Drama,False,0,0
+1969,The Lion in Winter,Best Motion Picture - Drama,True,1,0
+1968,The Graduate,Best Motion Picture - Musical or Comedy,True,0,1
+1968,Bonnie and Clyde,Best Motion Picture - Drama,False,0,0
+1968,Far From The Madding Crowd,Best Motion Picture - Drama,False,0,0
+1968,Guess Who's Coming To Dinner,Best Motion Picture - Drama,False,0,0
+1968,In Cold Blood,Best Motion Picture - Drama,False,0,0
+1968,Camelot,Best Motion Picture - Musical or Comedy,False,0,0
+1968,Doctor Dolittle,Best Motion Picture - Musical or Comedy,False,0,0
+1968,The Taming of the Shrew,Best Motion Picture - Musical or Comedy,False,0,0
+1968,Thoroughly Modern Millie,Best Motion Picture - Musical or Comedy,False,0,0
+1968,In the Heat of the Night,Best Motion Picture - Drama,True,1,0
+1967,The Sand Pebbles,Best Motion Picture - Drama,False,0,0
+1967,Who's Afraid of Virginia Woolf?,Best Motion Picture - Drama,False,0,0
+1967,"Man for All Seasons, A",Best Motion Picture - Drama,True,1,0
+1967,You're a Big Boy Now,Best Motion Picture - Musical or Comedy,False,0,0
+1967,The Russians Are Coming Russians Are Coming,Best Motion Picture - Musical or Comedy,True,0,1
+1967,"Not With My Wife, You Don't",Best Motion Picture - Musical or Comedy,False,0,0
+1967,Gambit,Best Motion Picture - Musical or Comedy,False,0,0
+1967,"Funny Thing Happened on the Way to the Forum, A",Best Motion Picture - Musical or Comedy,False,0,0
+1967,The Professionals,Best Motion Picture - Drama,False,0,0
+1967,Born Free,Best Motion Picture - Drama,False,0,0
+1966,The Sound of Music,Best Motion Picture - Musical or Comedy,True,0,1
+1966,"Thousand Clowns, A",Best Motion Picture - Musical or Comedy,False,0,0
+1966,Those Magnificent Men in Their Flying Machines,Best Motion Picture - Musical or Comedy,False,0,0
+1966,The Great Race,Best Motion Picture - Musical or Comedy,False,0,0
+1966,Cat Ballou,Best Motion Picture - Musical or Comedy,False,0,0
+1966,Doctor Zhivago,Best Motion Picture - Drama,True,1,0
+1966,Ship of Fools,Best Motion Picture - Drama,False,0,0
+1966,"Patch of Blue, A",Best Motion Picture - Drama,False,0,0
+1966,The Flight of the Phoenix,Best Motion Picture - Drama,False,0,0
+1966,The Collector,Best Motion Picture - Drama,False,0,0
+1965,The World of Henry Orient,Best Motion Picture - Musical or Comedy,False,0,0
+1965,The Unsinkable Molly Brown,Best Motion Picture - Musical or Comedy,False,0,0
+1965,My Fair Lady,Best Motion Picture - Musical or Comedy,True,0,1
+1965,Mary Poppins,Best Motion Picture - Musical or Comedy,False,0,0
+1965,Father Goose,Best Motion Picture - Musical or Comedy,False,0,0
+1965,Becket,Best Motion Picture - Drama,True,1,0
+1965,Zorba The Greek,Best Motion Picture - Drama,False,0,0
+1965,The Night of the Iguana,Best Motion Picture - Drama,False,0,0
+1965,Dear Heart,Best Motion Picture - Drama,False,0,0
+1965,The Chalk Garden,Best Motion Picture - Drama,False,0,0
+1964,Bye Bye Birdie,Best Motion Picture - Musical or Comedy,False,0,0
+1964,"It's a Mad, Mad, Mad, Mad World",Best Motion Picture - Musical or Comedy,False,0,0
+1964,Irma La Douce,Best Motion Picture - Musical or Comedy,False,0,0
+1964,Lilies of the Field,Best Motion Picture - Drama,False,0,0
+1964,Hud,Best Motion Picture - Drama,False,0,0
+1964,The Great Escape,Best Motion Picture - Drama,False,0,0
+1964,Cleopatra,Best Motion Picture - Drama,False,0,0
+1964,The Caretakers,Best Motion Picture - Drama,False,0,0
+1964,The Cardinal,Best Motion Picture - Drama,True,1,0
+1964,Under The Yum Yum Tree,Best Motion Picture - Musical or Comedy,False,0,0
+1964,Tom Jones,Best Motion Picture - Musical or Comedy,True,0,1
+1964,"Ticklish Affair, A",Best Motion Picture - Musical or Comedy,False,0,0
+1964,"America, America",Best Motion Picture - Drama,False,0,0
+1964,"Captain Newman, M.D.",Best Motion Picture - Drama,False,0,0
+1963,To Kill A Mockingbird,Best Motion Picture - Drama,False,0,0
+1963,Mutiny on the Bounty,Best Motion Picture - Drama,False,0,0
+1963,The Miracle Worker,Best Motion Picture - Drama,False,0,0
+1963,The Longest Day,Best Motion Picture - Drama,False,0,0
+1963,Lisa,Best Motion Picture - Drama,False,0,0
+1963,Freud,Best Motion Picture - Drama,False,0,0
+1963,Days of Wine and Roses,Best Motion Picture - Drama,False,0,0
+1963,The Chapman Report,Best Motion Picture - Drama,False,0,0
+1963,Hemingway's Adventures of a Young Man,Best Motion Picture - Drama,False,0,0
+1963,Lawrence of Arabia,Best Motion Picture - Drama,True,1,0
+1962,Judgment at Nuremberg,Best Motion Picture - Drama,False,0,0
+1962,Fanny,Best Motion Picture - Drama,False,0,0
+1962,El Cid,Best Motion Picture - Drama,False,0,0
+1962,The Guns of Navarone,Best Motion Picture - Drama,True,1,0
+1962,Splendor in the Grass,Best Motion Picture - Drama,False,0,0
+1961,Sunrise at Campobello,Best Motion Picture - Drama,False,0,0
+1961,Sons and Lovers,Best Motion Picture - Drama,False,0,0
+1961,Inherit the Wind - 1960,Best Motion Picture - Drama,False,0,0
+1961,Elmer Gantry,Best Motion Picture - Drama,False,0,0
+1961,Spartacus,Best Motion Picture - Drama,True,1,0
+1960,The Diary of Anne Frank,Best Motion Picture - Drama,False,0,0
+1960,Anatomy of a Murder,Best Motion Picture - Drama,False,0,0
+1960,On The Beach,Best Motion Picture - Drama,False,0,0
+1960,The Nun's Story,Best Motion Picture - Drama,False,0,0
+1960,Ben-Hur,Best Motion Picture - Drama,True,1,0
+1959,Cat on a Hot Tin Roof,Best Motion Picture - Drama,False,0,0
+1959,The Defiant Ones,Best Motion Picture - Drama,True,1,0
+1959,Separate Tables,Best Motion Picture - Drama,False,0,0
+1959,I Want To Live!,Best Motion Picture - Drama,False,0,0
+1959,Home Before Dark,Best Motion Picture - Drama,False,0,0
+1958,12 Angry Men (1957),Best Motion Picture - Drama,False,0,0
+1958,Sayonara,Best Motion Picture - Drama,False,0,0
+1958,Les Girls,Best Motion Picture - Musical or Comedy,True,0,1
+1958,Silk Stockings,Best Motion Picture - Musical or Comedy,False,0,0
+1958,Love in the Afternoon,Best Motion Picture - Musical or Comedy,False,0,0
+1958,Pal Joey,Best Motion Picture - Musical or Comedy,False,0,0
+1958,Wild is the Wind,Best Motion Picture - Drama,False,0,0
+1958,Witness for the Prosecution,Best Motion Picture - Drama,False,0,0
+1958,The Bridge on the River Kwai,Best Motion Picture - Drama,True,1,0
+1958,Don't Go Near The Water,Best Motion Picture - Musical or Comedy,False,0,0
+1957,The Opposite Sex,Best Motion Picture - Musical or Comedy,False,0,0
+1957,Bus Stop,Best Motion Picture - Musical or Comedy,False,0,0
+1957,Around the World in 80 Days,Best Motion Picture - Drama,True,1,0
+1957,The King and I,Best Motion Picture - Musical or Comedy,True,0,1
+1957,War and Peace,Best Motion Picture - Drama,False,0,0
+1957,The Rainmaker,Best Motion Picture - Drama,False,0,0
+1957,Lust For Life,Best Motion Picture - Drama,False,0,0
+1957,Giant,Best Motion Picture - Drama,False,0,0
+1957,The Solid Gold Cadillac,Best Motion Picture - Musical or Comedy,False,0,0
+1957,The Teahouse of the August Moon,Best Motion Picture - Musical or Comedy,False,0,0
+1956,East of Eden,Best Motion Picture - Drama,True,1,0
+1956,Guys and Dolls,Best Motion Picture - Musical or Comedy,True,0,1
+1955,Carmen Jones,Best Motion Picture - Musical or Comedy,True,0,1
+1955,On the Waterfront,Best Motion Picture - Drama,True,1,0
+1954,The Robe,Best Motion Picture - Drama,True,1,0
+1953,The Happy Time,Best Motion Picture - Drama,False,0,0
+1953,Star and Stripes Forever,Best Motion Picture - Musical or Comedy,False,0,0
+1953,Singin' in the Rain,Best Motion Picture - Musical or Comedy,False,0,0
+1953,I'll See You in My Dreams,Best Motion Picture - Musical or Comedy,False,0,0
+1953,Hans Christian Andersen,Best Motion Picture - Musical or Comedy,False,0,0
+1953,The Greatest Show on Earth,Best Motion Picture - Drama,True,1,0
+1953,The Thief,Best Motion Picture - Drama,False,0,0
+1953,High Noon,Best Motion Picture - Drama,False,0,0
+1953,"Come Back, Little Sheba",Best Motion Picture - Drama,False,0,0
+1953,With a Song in My Heart,Best Motion Picture - Musical or Comedy,True,0,1
+1952,Bright Victory,Best Motion Picture - Drama,False,0,0
+1952,Detective Story,Best Motion Picture - Drama,False,0,0
+1952,A Streetcar Named Desire (1951),Best Motion Picture - Drama,False,0,0
+1952,A Place In The Sun,Best Motion Picture - Drama,True,1,0
+1952,An American In Paris,Best Motion Picture - Musical or Comedy,True,0,1
+1952,Quo Vadis,Best Motion Picture - Drama,False,0,0
